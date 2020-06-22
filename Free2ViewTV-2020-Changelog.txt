@@ -43,6 +43,15 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 6/21/2020 - NEW CHANNEL ADDED: Stingray Soul Storm (sourced from Xumo) added as a bonus channel to STINGRAY MUSIC.
+# Update: 6/21/2020 - NEW CHANNELS ADDED: added 3 new kids channels from FilmOn Free TV in the Entertainment category. 
+# Update: 6/21/2020 - CHANNEL MAINTENANCE: updated Electric Now with its website source from https://www.electricnow.tv
+# Update: 6/21/2020 - PLAYLIST MAINTENANCE: removed Electric Now, The Film Detective from Entertainment; already in Movies Plus.
+# Update: 6/21/2020 - PLAYLIST MAINTENANCE: removed Cinedigm channels from Entertainment; already in Cinedigm Digital Networks.
+# Update: 6/21/2020 - CHANNEL MAINTENANCE: removed K2 and Frisbee from the Italy | dplay category (protected streams).
+# Update: 6/20/2020 - NEW CATEGORY ADDED: FilmRise channels moved from Movies Plus into its own category with additional new channels.
+# Update: 6/20/2020 - CHANNEL MAINTENANCE: Updated some outdated links for Miami TV in the Travel & Tourism category.
+# Update: 6/16/2020 - PLAYLIST MAINTENANCE: Sorted the categories for a more cohesive flow between interests.
 # Update: 6/14/2020 - PLAYLIST MAINTENANCE: Removed Golf Channel from Sports (see 'Important Notice' above for details).
 # Update: 6/14/2020 - CHANNEL MAINTENANCE: Removed ABC, CBC, NBC, Fox, CW from USA FREE OTA TV (dead streams, not legal sources).
 # Update: 6/14/2020 - NEW CHANNEL ADDED: Right Now Television, a men's special interest channel, added to USA FREE OTA TV.

@@ -52,6 +52,14 @@
 # Update: 6/14/2020 - NEW CHANNELS ADDED: Channels from nosey added into ENTERTAINMENT category (https://www.nosey.com/pages/tv/e/tv)
 # Update: 6/14/2020 - PLAYLIST MAINTENANCE: For now, the VOD categories (including CHRISTMAS COLLECTION) have been removed.
 # Update: 6/16/2020 - PLAYLIST MAINTENANCE: Sorted the categories for a more cohesive flow between interests.
+# Update: 6/20/2020 - NEW CATEGORY ADDED: FilmRise channels moved from Movies Plus into its own category with additional new channels.
+# Update: 6/20/2020 - CHANNEL MAINTENANCE: Updated some outdated links for Miami TV in the Travel & Tourism category.
+# Update: 6/21/2020 - NEW CHANNEL ADDED: Stingray Soul Storm (sourced from Xumo) added as a bonus channel to STINGRAY MUSIC.
+# Update: 6/21/2020 - NEW CHANNELS ADDED: added 3 new kids channels from FilmOn Free TV in the Entertainment category. 
+# Update: 6/21/2020 - CHANNEL MAINTENANCE: updated Electric Now with its website source from https://www.electricnow.tv
+# Update: 6/21/2020 - PLAYLIST MAINTENANCE: Removed Electric Now, The Film Detective from Entertainment; already in Movies Plus.
+# Update: 6/21/2020 - PLAYLIST MAINTENANCE: Removed Cinedigm channels from Entertainment; already in Cinedigm Digital Networks.
+# Update: 6/21/2020 - CHANNEL MAINTENANCE: removed K2 and Frisbee from the Italy | dplay category (protected streams).
 #
 # ************************************************************************************************************************************* 
 
@@ -59,6 +67,8 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Entertainment",Buzzr | HD
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DealOrNoDeal_400x400.png?raw=true" group-title="Entertainment",Deal or No Deal
+https://pcor5.manifest.auditude.com/auditude/variant/endemol_dealornodeal_1/1ed6401b-8358-48db-8902-51cc4c6c6ec7/aHR0cHM6Ly9lbmRlbW9sLWRlYWxvcm5vZGVhbC0xLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=468;distributor=roku;ip=77.111.246.7;rdid=85a1184d-06da-5f54-9850-8046b71fea91;coppa=false;is_lat=1;ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F81.0.4044.138+Safari%2F537.36+OPR%2F68.0.3618.125;content=039d1c6eb84b58069cff48d40547d88e;genre=ROKU_ADS_CONTENT_GENRE;platform=web;content_type=livefeed;content_rating=TVG&ptcueformat=turner
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ChargeTV.png" group-title="Entertainment",Charge!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CometTV.png" group-title="Entertainment",Comet TV
@@ -69,20 +79,10 @@ https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Folk-TV_NEW_720x720.png?raw=true" group-title="Entertainment",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ElectricEnt_480x480.png" group-title="Entertainment",Electric Now | HD
-https://bozztv.com/veset1/720pHi/playlist_720pHi.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" group-title="Movies Plus",The Film Detective
-https://a.jsrdn.com/broadcast/9Kl3dcb5l/c.m3u8?1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ClassicArtsShowcase.png" group-title="Entertainment",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WorldHarvestTelevision_290x290.png?raw=true" group-title="Entertainment",WHT | World Harvest Television
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/DoveChannel.png" group-title="Entertainment",Dove Channel
-https://dove-distro.cinedigm.com/playlist720p.m3u8?Entertainment
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ConTV_410x410.png" group-title="Entertainment",CONtv Channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1920x1080_4528000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Docurama_670x670.png" group-title="Entertainment",Docurama | HD
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Dabl_400x400.png" group-title="Entertainment",Dabl (Geo-USA)
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/YouTooAmerica_225x225.png?raw=true" group-title="Entertainment",YouToo America
@@ -97,8 +97,12 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://live-cdn.pbskids.org/out/u/est.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="Entertainment",PBS Kids (Geo-USA) Hawaii
 https://live-cdn.pbskids.org/out/u/hast.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DealOrNoDeal_400x400.png?raw=true" group-title="Entertainment",Deal or No Deal
-https://pcor5.manifest.auditude.com/auditude/variant/endemol_dealornodeal_1/1ed6401b-8358-48db-8902-51cc4c6c6ec7/aHR0cHM6Ly9lbmRlbW9sLWRlYWxvcm5vZGVhbC0xLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=468;distributor=roku;ip=77.111.246.7;rdid=85a1184d-06da-5f54-9850-8046b71fea91;coppa=false;is_lat=1;ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F81.0.4044.138+Safari%2F537.36+OPR%2F68.0.3618.125;content=039d1c6eb84b58069cff48d40547d88e;genre=ROKU_ADS_CONTENT_GENRE;platform=web;content_type=livefeed;content_rating=TVG&ptcueformat=turner
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Filmon_269x269.png?raw=true" group-title="Entertainment",FilmOn Free TV | POP
+https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Filmon_269x269.png?raw=true" group-title="Entertainment",FilmOn Free TV | Kix
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Filmon_269x269.png?raw=true" group-title="Entertainment",FilmOn Free TV | Kids Pop
+https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" group-title="Entertainment",nosey | Jerry Springer
 https://e2277a5e6b8841faba29afa6e2e8ec47.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse-node04_powr_com_5eb1e7f848f1ff2e1d2555a2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" group-title="Entertainment",nosey | Maury
@@ -114,24 +118,31 @@ https://80461fbcb4e841eb9d7f7ae76f05483d.mediatailor.us-east-1.amazonaws.com/v1/
 https://mgmtheworks-roku-us.amagi.tv/hls/amagi_hls_data_mgmAAAAAA-theworks/CDN/playlist.m3u8?rdid=85a1184d-06da-5f54-9850-8046b71fea91&coppa=false&is_lat=1&content=e9628864c867539c81ce5365d319dbd1&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAsylum_350x350.png?raw=true" group-title="Movies Plus",The Asylum Movie Channel
 https://dai1.xumo.com/7a884267de5c44a9/9999406/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ElectricEnt_480x480.png" group-title="Movies Plus",Electric Now | HD
-https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ElectricEnt_480x480.png" group-title="Movies Plus",Electric Now
+https://1cfc2538e92a49b6aca3ccd424b3d474.mediatailor.us-west-2.amazonaws.com/v1/master/2aa80169619e70d2ce8badd72baf024f656bee6b/ElecNowVeset/prod/elec/linear_channel/ottera_cdn.m3u8?&ads.device_manufacturer=&ads.device_model=&ads.device_type=desktop&ads.partner=internal&ads.device_id=06b83095fc1867c979e49ea7318a5abb&ads.device_width=1280&ads.device_height=720
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" group-title="Movies Plus",The Film Detective
 https://a.jsrdn.com/broadcast/9Kl3dcb5l/c.m3u8?2
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" group-title="Movies Plus",Dust | Channel 1
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" group-title="Movies Plus",Dust | Channel 2
 https://dai1.xumo.com/8d9puiojemjm1t9c/9999432/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Free-Movies_300x300.png?raw=true" group-title="Movies Plus",Filmrise | Free Movies
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Free-Movies_300x300.png?raw=true" group-title="FilmRise Digital Networks",FilmRise | Free Movies
 https://dai1.xumo.com/7a884267de5c44a9/9999404/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Classic-TV_300x300.png?raw=true" group-title="Movies Plus",Filmrise | Classic TV
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Classic-TV_300x300.png?raw=true" group-title="FilmRise Digital Networks",FilmRise | Classic TV
 https://dai1.xumo.com/9fe012a9926c4e91/9999400/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Family_355x355.png?raw=true" group-title="Movies Plus",Filmrise | Filmrise Family
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Family_355x355.png?raw=true" group-title="FilmRise Digital Networks",FilmRise | FilmRise Family
 https://dai1.xumo.com/9fe012a9926c4e91/9999402/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Sci-Fi_355x355.png?raw=true" group-title="Movies Plus",Filmrise | Filmrise Sci-Fi
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Sci-Fi_355x355.png?raw=true" group-title="FilmRise Digital Networks",FilmRise | FilmRise Sci-Fi
 https://dai1.xumo.com/7a884267de5c44a9/9999437/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise-Action_442x442.png?raw=true" group-title="Movies Plus",Filmrise | Filmrise Action
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise-Action_442x442.png?raw=true" group-title="FilmRise Digital Networks",FilmRise | FilmRise Action
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8?p=roku&rdid=85a1184d-06da-5f54-9850-8046b71fea91&coppa=false&is_roku_lat=1&platform=web&content=e6f1b98acc5b5727ace239b9e4065c9b&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=CHANNEL_STORE_CODE&bmodel=ROKU_BIZ_MODEL&tags=ROKU_CONTENT_TAGS&studio_id=ROKU_ADS_PROVIDER_ID&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_512x512.png?raw=true" group-title="FilmRise Digital Networks",FilmRise | Gordon Ramsay
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8?p=roku&rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=385e1e1953f4512aacd8ffc73b76cc32&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_UnsolvedMys_900x900.png?raw=true" group-title="FilmRise Digital Networks",FilmRise | Unsolved Mysteries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8?p=roku&rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=be4b0ce90fd4581c9d40f93434439d48&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_ForensicFiles_398x398.png?raw=true" group-title="FilmRise Digital Networks",FilmRise | Forensic Files
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8?p=roku&rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=1bf2b193d75955de8a860bd6e7835745&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ConTV_NEW_640x640.png?raw=true" group-title="Cinedigm Digital Networks",Cinedigm | CONtv Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8?Cinedigm
@@ -424,10 +435,14 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" group-title="Travel & Tourism",Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" group-title="Travel & Tourism",Miami TV (18+)
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1796638301_b2592000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Tourism-Travel_320x320.png" group-title="Travel & Tourism",Miami TV - Jenny (18+)
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MiamiTV_640x640.png?raw=true" group-title="Travel & Tourism",Miami TV (18+)
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MiamiTV_640x640.png?raw=true" group-title="Travel & Tourism",Miami TV (18+) Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MiamiTV_640x640.png?raw=true" group-title="Travel & Tourism",Miami TV (18+) Jenny Live
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MiamiTV_640x640.png?raw=true" group-title="Travel & Tourism",Miami TV (18+) Jenny 2
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCNews.png" group-title="Canadian TV",CBC News Network (Geo)
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
@@ -1010,8 +1025,6 @@ http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | MotorTrend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8?hdnts=st=1589671397~exp=1589757797~acl=/i/*~hmac=6970274b30b054c8a768be4c559a5ca306dedff5e317f58c6ac582de252a4b29&mux_audio=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | K2
-https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8?hdnts=st=1589671603~exp=1589758003~acl=/i/*~hmac=c7b17960467e4f7cde6f0ccc3430265a9f41ac5c112c609e2bfa6cdbe6dc08de&mux_audio=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8?hdnts=st=1589671629~exp=1589758029~acl=/i/*~hmac=d9c1bd58626851e83d2951ffada2fd18511d8d205621183583a9c9aadcc5cc53&mux_audio=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Giallo
@@ -1022,8 +1035,6 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=15896717
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8?hdnts=st=1589671774~exp=1589758174~acl=/i/*~hmac=29c9bfdffe78b980782305038aa3dcb39aeae0fa7646d0a5a3ba690859928db3&mux_audio=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Food Network
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?hdnts=st=1589671793~exp=1589758193~acl=/i/*~hmac=64f4d865b9e99fbd79b8a24a4a49d12d87c0550a131c39cc206bc22ad1ffae39&mux_audio=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Frisbee
-https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8?hdnts=st=1589671810~exp=1589758210~acl=/i/*~hmac=942cbb65aa72d72ad9b53d33efe3ca0fddccfc1fd395dec0191e3b37e0c83443&mux_audio=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | HGTV
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 
@@ -1082,6 +1093,8 @@ https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",451 Stingray NatureScape
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",BONUS Stingray Soul Storm
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/TuneIn_Generic_864x864.png?raw=true" group-title="Free Radio",Video-Clip | Radio Wallpaper
 https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/4-OldRadio_WallpaperVID_v2.mp4?1
