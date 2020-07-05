@@ -43,6 +43,18 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 6/27/2020 - NEW CHANNELS ADDED: added CTV News Channel (https://www.ctvnews.ca/live), CP24 (https://www.cp24.com/video)*
+#                     *(please note that these may be unlocked during COVID-19, but may be removed once no longer available publicly)
+# Update: 6/27/2020 - NEW CHANNELS ADDED: by special request, added Free Kids Radio category with new channels from iHeartRadio.
+# Update: 6/27/2020 - NEW CHANNEL ADDED: by request, Island Luck TV in Travel & Tourism - https://islandluck.com/TvWatcher.aspx
+# Update: 6/27/2020 - NEW CHANNEL ADDED: added The Florida Channel in Travel & Tourism - https://thefloridachannel.org/watch/
+# Update: 6/25/2020 - NEW CATEGORY ADDED: Added new Women's & Men's Interests category, relocated some channels, added others.
+# Update: 6/25/2020 - NEW CHANNEL ADDED: added Kaloopy - The California Lifestyle Channel - https://www.kaloopy.com/watch
+# Update: 6/23/2020 - PLAYLIST MAINTENANCE: minor cleanup, renaming some existing channels
+# Update: 6/22/2020 - PLAYLIST MAINTENANCE: cleaned up the Djing category by cleaning up the channel names.
+# Update: 6/22/2020 - CHANNEL MAINTENANCE: re-added the GEO-USA Charge! & Comet streams, moved non-GEO'd streams to USA FREE OTA TV.
+# Update: 6/22/2020 - CHANNEL MAINTENANCE: duplicated the FilmRise channels from Redbox into the FILMRISE DIGITAL NETWORKS category.
+# Update: 6/22/2020 - PLAYLIST MAINTENANCE: channels have not been deleted, just relocated into more relevant/new categories.
 # Update: 6/21/2020 - NEW CHANNEL ADDED: Stingray Soul Storm (sourced from Xumo) added as a bonus channel to STINGRAY MUSIC.
 # Update: 6/21/2020 - NEW CHANNELS ADDED: added 3 new kids channels from FilmOn Free TV in the Entertainment category. 
 # Update: 6/21/2020 - CHANNEL MAINTENANCE: updated Electric Now with its website source from https://www.electricnow.tv
