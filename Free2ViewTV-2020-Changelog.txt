@@ -43,6 +43,24 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 7/12/2020 - NEW CATEGORY ADDED: by request, added International | Dubai category with a selection of channels.
+# Update: 7/12/2020 - NEW CATEGORY ADDED: by request, added Music Video | Rathergood https://rathergood.co.uk/videos/live/
+# Update: 7/12/2020 - NEW CATEGORY ADDED: by request, added Nature Cams with cams from https://nationalzoo.si.edu/webcams
+# Update: 7/12/2020 - PLAYLIST MAINTENANCE: removed discontinued streams LCN and Youpa from Canadian TV category.
+# Update: 7/10/2020 - NEW CHANNEL ADDED: Canadian TV local channel ONNtv from Sault Ste. Marie - https://saultonline.com/onntv/ 
+# Update: 7/10/2020 - NEW CHANNEL ADDED: French Canadian network Canal Savoir - https://savoir.tv/endirect
+# Update: 7/10/2020 - PLAYLIST MAINTENANCE: Removed discontinued streams in Francophone TV, added Canal Savoir from Canada.
+# Update: 7/07/2020 - PLAYLIST MAINTENANCE: renamed SPORTS category to SPORTS & RECREATION
+# Update: 7/07/2020 - NEW CHANNEL LAUNCH: Lone Star (https://www.thelonestarchannel.com/), added to MOVIES PLUS category.
+# Update: 7/07/2020 - NEW CATEGORY ADDED: added '[adult swim]' category and streams from https://www.adultswim.com/streams
+# Update: 7/05/2020 - CHANNEL MAINTENANCE: replaced inactive TV25 NewsNet with network stream from https://yournewsnet.com/
+# Update: 7/05/2020 - CHANNEL MAINTENANCE: updated News Net | HD source. https://www.ginikousa.com/live.php?id=751
+# Update: 7/05/2020 - CHANNEL MAINTENANCE: added alternate stream for Weather Nation; updated inactive TV25 stream with alternate.
+# Update: 7/05/2020 - CHANNEL MAINTENANCE: replaced inactive TV25 Shop LC with webstream from https://www.shoplc.com/livetv
+# Update: 7/03/2020 - CATEGORY MAINTENANCE: renamed Women's & Men's Interests as Adult Lifestyle & Interests.
+# Update: 7/01/2020 - PLAYLIST MAINTENANCE: CBC News Net no longer has a free stream, back behind a subscription pay wall; removed.
+# Update: 6/30/2020 - NEW CATEGORY: several new streams and channels relocated from other categories into Gameshows & Competitions.
+# Update: 6/30/2020 - NEW CHANNELS: Sinclair Broadcast Group: Deal or No Deal (Gameshows & Competitions), Ring of Honor (Sports).
 # Update: 6/27/2020 - NEW CHANNELS ADDED: added CTV News Channel (https://www.ctvnews.ca/live), CP24 (https://www.cp24.com/video)*
 #                     *(please note that these may be unlocked during COVID-19, but may be removed once no longer available publicly)
 # Update: 6/27/2020 - NEW CHANNELS ADDED: by special request, added Free Kids Radio category with new channels from iHeartRadio.
