@@ -43,6 +43,17 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 7/19/2020 - PLAYLIST MAINTENANCE: Updated some billboard/info videos to new servers / streaming links.
+# Update: 7/17/2020 - NEW CHANNELS ADDED: TBN, Hillsong, and Smile (Entertainment) - https://watch.tbn.org/live-channels
+# Update: 7/17/2020 - NEW CHANNEL ADDED: Positiv TV added in Entertainment category - https://positiv.tv/watch-now/
+# Update: 7/17/2020 - CHANNEL MAINTENANCE: duplicated TBN US, Hillsong, Smile, and Positiv into EPG | Free2View TV.
+# Update: 7/16/2020 - NEW CHANNELS ADDED: added Shout! Factory TV and Xumo Free Westerns in MOVIES PLUS category.
+# Update: 7/16/2020 - CHANNEL MAINTENANCE: duplicated Stingray channels from Xumo as BONUS channels in Stingray Music.
+# Update: 7/15/2020 - NEW CATEGORY ADDED: Added the complete set of "LIVE" streams from Xumo (43 channels in total). 
+# Update: 7/14/2020 - CHANNEL MAINTENANCE: Updated The Knowledge Network in Canadian TV as Geo-CA and added alternate stream.
+# Update: 7/14/2020 - PLAYLIST MAINTENANCE: Consolitated DISTRO TV into one category.
+# Update: 7/13/2020 - PLAYLIST MAINTENANCE: Minor update: renamed International | Dubai as International | U.A.E.
+# Update: 7/13/2020 - NEW CHANNEL ADDED: added Vintage Music Radio to "Music Video | Rathergood" category.
 # Update: 7/12/2020 - NEW CATEGORY ADDED: by request, added International | Dubai category with a selection of channels.
 # Update: 7/12/2020 - NEW CATEGORY ADDED: by request, added Music Video | Rathergood https://rathergood.co.uk/videos/live/
 # Update: 7/12/2020 - NEW CATEGORY ADDED: by request, added Nature Cams with cams from https://nationalzoo.si.edu/webcams
