@@ -9,17 +9,12 @@
 # guarantee that these links will remain stable or active and any dead links could be removed at any time. Enjoy! -Georges B.
 # Channel list begins after the Changelog in this document.
 #
-# Some sources used for this list: 
-# Giniko TV: https://www.ginikousa.com/index.php and http://www.giniko.com/
-# Distro TV: https://www.distro.tv/ (channels in playlist designated with *)
-# Bumblebee TV: https://www.bumblebee.tv/
 #
 # Download the complete Changelog (News and Updates):
 # https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Changelog.txt
 #
 # Electronic Program Guides used for this playlist:
-# https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/EPG/KCK_66101.xml
-# https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/EPG/WNY_13601.xml
+# https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/EPG/F2VTV_MERGE2.xml
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 # IMPORTANT NOTICE: - PLEASE NOTE THAT CHANNEL LINE-UP CHANGES ARE OCCURING. THE FOLLOWING CHANNELS HAVE BEEN REMOVED FROM THE
@@ -31,6 +26,9 @@
 #                     (2) The following channels are streaming publicly online, but only on a 10-minute trial. 
 #                         After that, a valid pay-TV package and/or cable service login is required.
 #                         - CNN News; MSNBC News.
+#                     (3) The following networks have now gone behind a paywall and no longer available for free:
+#                         - CBC News Network; Law & Crime Trial Network (Live Trial streams)
+#
 #                     Channel line-up changes are continuing and will always be subject to modification.
 #                     The Free2View TV Project takes pride in being the *best* freely distributed IPTV playlist curating only
 #                     truly legal free live streams-- no unofficial streams, no bootlegged streams and no illegal re-streams.
@@ -43,6 +41,20 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 7/27/2020 - CHANNEL MAINTENANCE: The Law & Crime Trial Network has gone behind a paywall; LAW + JUSTICE group removed.
+# Update: 7/27/2020 - CHANNEL MAINTENANCE: New sources for L&C's standalone stream, Court TV; both moved to Entertainment.
+# Update: 7/27/2020 - CHANNEL MAINTENANCE: Court TV's stream updated in EPG | Free2View TV, also added to USA FREE OTA TV.
+# Update: 7/27/2020 - PLAYLIST MAINTENANCE: Bloomberg TV group changed to Financial News & Info; TD Ameritrade, Yahoo! Finance added.
+# Update: 7/27/2020 - CHANNEL MAINTENANCE: Stadium TV: removed dead SD stream, HD stream source: https://watchstadium.com/live/
+# Update: 7/27/2020 - NEW CHANNEL ADDED: Olympic Channel (Geo-CA), in SD, HD; additional resolutions added in Olympic Channel group.
+# Update: 7/26/2020 - NEW CATEGORY ADDED: new "Faith & Spirituality" category, relocated some channels, added new channels.
+# Update: 7/26/2020 - NEW CHANNELS ADDED: CBN channels added to "Faith & Spirituality" - https://www1.cbn.com/tv/cbn-live
+# Update: 7/26/2020 - CHANNEL MAINTENANCE: duplicated Canadian channels into "Faith & Spirituality" category.
+# Update: 7/26/2020 - NEW CHANNELS ADDED: additional EWTN's added to "Faith & Spirituality" - https://www.ewtn.com/tv/watch-live/
+# Update: 7/26/2020 - NEW CHANNELS ADDED: select 3ABN's added to "Faith & Spirituality" - https://3abn.org/all-streams/3abn.html
+# Update: 7/26/2020 - NEW CHANNEL ADDED: added ICI TV, a Canadian multicultural network - https://icitelevision.ca/live-video/
+# Update: 7/22/2020 - NEW CATEGORY ADDED: added "Free iHeart Radio" category with several new radio streams.
+# Update: 7/20/2020 - NEW CHANNELS ADDED: new channels on DistroTV: TD Ameritrade, RNTV, Buzzr, AWE Encore, Newsy, Stingray Music.
 # Update: 7/19/2020 - PLAYLIST MAINTENANCE: Updated some billboard/info videos to new servers / streaming links.
 # Update: 7/17/2020 - NEW CHANNELS ADDED: TBN, Hillsong, and Smile (Entertainment) - https://watch.tbn.org/live-channels
 # Update: 7/17/2020 - NEW CHANNEL ADDED: Positiv TV added in Entertainment category - https://positiv.tv/watch-now/
