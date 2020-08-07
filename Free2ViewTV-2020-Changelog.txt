@@ -41,6 +41,18 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 8/05/2020 - NEW CHANNELS ADDED / CATEGORY MAINTENANCE: Added the full line-up of channels in Redbox Free Live TV.
+# Update: 8/04/2020 - NEW CHANNEL ADDED: VENN, a new network about gaming, pop culture and lifestyle spaces. https://www.venn.tv/
+# Update: 8/04/2020 - NEW CHANNEL ADDED: Blues Television Network (USA FREE OTA TV, MUSIC VIDEO & TV groups) - http://bluestn.com
+# Update: 8/04/2020 - NEW CHANNEL ADDED: California Music Channel (3 streams) in MUSIC VIDEO & TV - https://www.cmctv.com/
+# Update: 8/03/2020 - NEW CATEGORY ADDED: Added new MUSIC VIDEO & TV category with channels from Loop Media, Inc. and others networks.
+# Update: 8/03/2020 - CHANNEL MAINTENANCE: Buzzr (network feed) appears to have discontinued, removed from playlist. 
+# Update: 8/03/2020 - CATEGORY MAINTENANCE: EPG | USA FREE OTA TV25: Buzzr, NewsNet, WeatherNation, ShopLC streams not working...
+# Update: 8/03/2020 - CATEGORY MAINTENANCE: EPG | USA FREE OTA TV25: ...channels replaced or updated with alternate streams
+# Update: 8/02/2020 - NEW CHANNELS ADDED: RetroCrush TV, Midnight Pulp.
+# Update: 8/02/2020 - CATEGORY MAINTENANCE: Some minor maintenance of the CANADIAN TV group (fixing channel names).
+# Update: 8/01/2020 - PLAYLIST MAINTENANCE: The MGM Sci-Fi Channel has been discontinued; removed from playlist.
+# Update: 7/30/2020 - CATEGORY MAINTENANCE: Cleaned up some channels in 'Live Radio Canada'; added 'TV AUDIO | ICI RDI'.
 # Update: 7/27/2020 - CHANNEL MAINTENANCE: The Law & Crime Trial Network has gone behind a paywall; LAW + JUSTICE group removed.
 # Update: 7/27/2020 - CHANNEL MAINTENANCE: New sources for L&C's standalone stream, Court TV; both moved to Entertainment.
 # Update: 7/27/2020 - CHANNEL MAINTENANCE: Court TV's stream updated in EPG | Free2View TV, also added to USA FREE OTA TV.
