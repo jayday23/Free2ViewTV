@@ -41,6 +41,16 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 8/17/2020 - CHANNEL MAINTENANCE: Moved English-language U.A.E. channels into International TV; removed U.A.E. group.
+# Update: 8/16/2020 - CHANNEL MAINTENANCE: Updated Buzzr TV link (EPG | Free2View TV) streams shows 24/7, but uses regional EPG. 
+# Update: 8/16/2020 - NEW CHANNELS ADDED / CATEGORY MAINTENANCE: Added the full line-up of channels in Bumblebee TV.
+# Update: 8/15/2020 - NEW CHANNELS ADDED: Updated Redbox Free Live TV and added Cheddar, Tastemade, and The Archive.
+# Update: 8/13/2020 - CATEGORY MAINTENANCE: Updated #EXTINF URLs in the PBS TV | NPR RADIO group and renamed group as PBS | NPR. 
+# Update: 8/13/2020 - NEW CHANNEL ADDED: Added PBS | Maryland Public TV - https://www.mpt.org/anywhere/live-stream-mpt/
+# Update: 8/13/2020 - CHANNEL MAINTENANCE: Cleaned up some PBS channels in Entertainment category; added Maryland Public TV.
+# Update: 8/11/2020 - NEW CHANNEL ADDED: BigLife TV, a source from the Sinclair Broadcast Group has been added to Special Interest.
+# Update: 8/11/2020 - NEW CHANNEL ADDED: Hollywood Classics, added to Nostalgia Flicks.
+# Update: 8/09/2020 - PLAYLIST MAINTENANCE: duplicated POSITIV TV and NBCLX into the USA FREE OTA TV category. 
 # Update: 8/05/2020 - NEW CHANNELS ADDED / CATEGORY MAINTENANCE: Added the full line-up of channels in Redbox Free Live TV.
 # Update: 8/04/2020 - NEW CHANNEL ADDED: VENN, a new network about gaming, pop culture and lifestyle spaces. https://www.venn.tv/
 # Update: 8/04/2020 - NEW CHANNEL ADDED: Blues Television Network (USA FREE OTA TV, MUSIC VIDEO & TV groups) - http://bluestn.com
