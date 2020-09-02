@@ -49,11 +49,15 @@ https://fafc1fa4b5594245ac9c53c3d765e4f2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" group-title="Entertainment",nosey | Judge Karen's Court
 https://80461fbcb4e841eb9d7f7ae76f05483d.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse-node04_powr_com_5eb1e7261474f9020c06f9ec/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThePreviewChannel_220x220.png?raw=true" group-title="Movies Plus",The Preview Channel
+https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ElectricEnt_480x480.png" group-title="Movies Plus",Electric Now | HD
 https://1cfc2538e92a49b6aca3ccd424b3d474.mediatailor.us-west-2.amazonaws.com/v1/master/2aa80169619e70d2ce8badd72baf024f656bee6b/ElecNowVeset/prod/elec/linear_channel/ottera_cdn.m3u8?&ads.device_manufacturer=&ads.device_model=&ads.device_type=desktop&ads.partner=internal&ads.device_id=06b83095fc1867c979e49ea7318a5abb&ads.device_width=1280&ads.device_height=720
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAsylum_350x350.png?raw=true" group-title="Movies Plus",The Asylum Movie Channel
 https://dai1.xumo.com/7a884267de5c44a9/9999406/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" group-title="Movies Plus",The Film Detective
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheArchive_300x300.png?raw=true" group-title="Movies Plus",The Archive
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=74&live=1&app_bundle=&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=z1MCPUpbxYcHru-5hdyq&content_series=5eea605674085f0040ddc7a0&custom4=plex&gdpr=0&device_make=&device_model=Windows+hosted&coppa=0&us_privacy=1---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" group-title="Movies Plus",The Film Detective | HD
 https://a.jsrdn.com/broadcast/9Kl3dcb5l/c.m3u8?MoviesPlus
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LoneStar_v2_250x250.png?raw=true" group-title="Movies Plus",Lone Star
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
@@ -101,6 +105,8 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8?Cinedigm
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/DoveChannel.png" group-title="Cinedigm Digital Networks",Cinedigm | Dove Channel
 https://dove-distro.cinedigm.com/playlist720p.m3u8?Cinedigm
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WhistleTV_350x350.png?raw=true" group-title="Cinedigm Digital Networks",Cinedigm | Whistle TV
+https://a.jsrdn.com/broadcast/3edff5tr2sv/c.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Docurama_670x670.png" group-title="Cinedigm Digital Networks",Cinedigm | Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8?Cinedigm
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BobRossChannel_275x275.png?raw=true" group-title="Cinedigm Digital Networks",Cinedigm | The Bob Ross Channel
@@ -159,6 +165,10 @@ https://nimble.dashstreams.net/onestudio/classictv/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_Westerns4U.png" group-title="Nostalgia Flicks",Westerns 4U
 https://nimble.dashstreams.net/onestudio/western4u/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SciFi4U_576x576.png?raw=true" group-title="Nostalgia Flicks",Sci-Fi 4U
+https://nimble.dashstreams.net/onestudio/SciFiTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HorifiedTV_898x898.png?raw=true" group-title="Nostalgia Flicks",Horrified TV
+https://nimble.dashstreams.net/onestudio/horrified/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NostTV_Movies_400x400.png?raw=true" group-title="Nostalgia Flicks",It's At The Movies
 https://59d39900ebfb8.streamlock.net/letsgotothemovies/letsgotothemovies/playlist.m3u8
 
@@ -252,6 +262,10 @@ https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="CBS News",CBS News | CBSN Live Event
 https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" group-title="CBS News",CBS News | CBS Sports HQ
+https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ETLive.png?raw=true" group-title="CBS News",CBS News | ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="ABC News Digital",ABC News D-0 (Main)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -316,15 +330,19 @@ https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8?tc=1&rn
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/YahooFinance_450x450.png?raw=true" group-title="Financial News & Info",Yahoo! Finance
 https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8?us_privacy=1---&did=&dnt=1&X-Plex-Token=z1MCPUpbxYcHru-5hdyq&channelId=5f170f01b898490041b49dd1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Stadium.png" group-title="Sports & Recreation",Stadium | Live SD
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" group-title="Sports & Recreation",CBS Sports HQ | HD
+https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WPT_600x600.png?raw=true" group-title="Sports & Recreation",WPT | World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WhistleTV_350x350.png?raw=true" group-title="Cinedigm Digital Networks",Whistle TV | HD
+https://a.jsrdn.com/broadcast/3edff5tr2sv/c.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Stadium.png" group-title="Sports & Recreation",Stadium | Live HD
 https://bcovlive-a.akamaihd.net/6b4f1a5aed2b46d6a139e3cb83f8dc42/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Sports & Recreation",Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheT_246x246.png" group-title="Sports & Recreation",The T (Tennis)
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" group-title="Sports & Recreation",Outside TV HD
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" group-title="Sports & Recreation",Outside TV | HD
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8?Sports
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true" group-title="Sports & Recreation",beIN Sports Xtra | HD
 https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/playlist.m3u8
@@ -332,10 +350,8 @@ https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/playl
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SportsGrid_512x512.png?raw=true" group-title="Sports & Recreation",SportsGrid Network
 https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RingOfHonor_400x400.png?raw=true" group-title="Sports & Recreation",Ring of Honor Wrestling
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RingOfHonor_400x400.png?raw=true" group-title="Sports & Recreation",Ring of Honor Wrestling | HD
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" group-title="Sports & Recreation",CBS Sports HQ (Geo-USA)
-https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FTFNext_576x576.png?raw=true" group-title="Sports & Recreation",FTF Next | FTF (Geo-USA)
 https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE_B.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FTFNext_576x576.png?raw=true" group-title="Sports & Recreation",FTF Next | LSN (Geo-USA)
@@ -543,7 +559,7 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="Canadian TV",Tele-Quebec
 https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" group-title="Canadian TV",Tele-V
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="Canadian TV",noovo
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ICI-Television_292x292.png?raw=true" group-title="Canadian TV",ICI Television
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
@@ -696,8 +712,8 @@ https://ssc2.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_all/playlist.m3u8
 https://ssc3.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS | NPR",PBS | WPSU TV | Source 4
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS | NPR",PBS | WNET TV | Thirteen
-https://cdn3.wowza.com/1/ZE9CSWR3ZDV2WEFQ/VENORDlI/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS | NPR",PBS | WNET TV | Thirteen (Geo-USA)
+https://rtmp-wnetdt.lls.cdn.pbs.org/rtmp-wnetdt/80f93f7f-9742-47b8-aa58-0c0ceb866d9f/primary.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS | NPR",PBS | Maryland Public TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS | NPR",PBS | KET TV HD
@@ -806,47 +822,63 @@ https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",** Entertainment **
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Entertainment
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Chive TV
-https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Unidentified
-https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Sword and Shield
-https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8?Entertainment
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",RNTV | Right Now TV
-https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",World Poker Tour HD
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8?Entertainment
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",alee+
+https://a.jsrdn.com/broadcast/55fgy6xc3/c.m3u8?Entertainment
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Reelz
+https://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | BUZZR
 https://a.jsrdn.com/broadcast/ds80weh4/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Unidentified
+https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Chive TV
+https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Sword and Shield
+https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8?Entertainment
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Right Now TV
+https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Electric Now
+https://a.jsrdn.com/broadcast/vf93fRSk7/c.m3u8?Entertainment
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",People TV HD
 https://a.jsrdn.com/broadcast/b5d2k0x/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Young Hollywood
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Reelz
-https://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA CA | Pop Star
 https://a.jsrdn.com/broadcast/wAlxn4cs/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA CA | Latido Music
-https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",** Music **
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Music
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA CA | Latido Music
-https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8?Music
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Brit Asia
-https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8?Music
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Stingray Qello
 https://a.jsrdn.com/broadcast/33wssfg65r/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Stingray Karaoke
-https://a.jsrdn.com/broadcast/weee3455t8/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Stingray Classica
 https://a.jsrdn.com/broadcast/redx4332g5/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Stingray djazz
 https://a.jsrdn.com/broadcast/59gjfkx230v/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA CA | Latido Music
+https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Brit Asia
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8?Music
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Stingray Karaoke
+https://a.jsrdn.com/broadcast/weee3455t8/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",** Comedy **
+https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Comedy
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",The Humor Mill
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Studio C
+https://a.jsrdn.com/broadcast/d5b46/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Comedy Dynamics HD
+https://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Dry Bar Comedy
+https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",** Lifestyle **
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Lifestyle
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA UK | Gusto
 https://a.jsrdn.com/broadcast/ebf95254ca/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Saveur
 https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",AWE Encore | HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",World Poker Tour HD
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8?Lifestyle
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",AWE Encore HD
 https://a.jsrdn.com/broadcast/ghk33s9x/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",bspoketv
 https://bspoketv.nexustreamer.com/distrotv-usa/master.m3u8
@@ -856,27 +888,15 @@ https://a.jsrdn.com/broadcast/33ee2rtf5/c.m3u8
 https://a.jsrdn.com/broadcast/ftv2/-0500/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",alee+
 https://a.jsrdn.com/broadcast/55fgy6xc3/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Popular Science
-https://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",IDG
-https://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",The Boat Show
-https://a.jsrdn.com/broadcast/256ccf645e/+0000/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",** Comedy **
-https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Comedy
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Studio C
-https://a.jsrdn.com/broadcast/d5b46/+0000/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Comedy Dynamics HD
-https://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Dry Bar Comedy
-https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",** Movies **
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Movies
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Dove Channel HD
 https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",CJC TV Network
+https://a.jsrdn.com/broadcast/hdsie3002x/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",CONtv HD
 https://a.jsrdn.com/broadcast/44hgsuu7/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",The Film Detective
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",The Film Detective HD
 https://a.jsrdn.com/broadcast/9Kl3dcb5l/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Lone Star
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8
@@ -884,14 +904,20 @@ https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/vf93fRSk7/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Bambu
 https://a.jsrdn.com/broadcast/g44kshi9X/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Kweli TV
+https://a.jsrdn.com/broadcast/9c897f1973/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",The Grid
+https://a.jsrdn.com/broadcast/djsiue839c3/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Monarch Channel
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",** News & Opinion **
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?News
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA CA | TD Ameritrade
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",TD Ameritrade
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",OAN Encore HD
+https://a.jsrdn.com/broadcast/nfbajk34e/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Newsy Top Stories
 https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8?ad=distrotv
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | NewsMax TV
@@ -904,6 +930,10 @@ https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",** Sports **
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",World Poker Tour HD
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Whistle TV HD
+https://a.jsrdn.com/broadcast/3edff5tr2sv/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Stadium
 https://a.jsrdn.com/broadcast/zx23ar15xx/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",ACCDN
@@ -916,7 +946,7 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",MMA Junkie
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Fighting Spirit
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA CA | Fighting Spirit
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Sportskool TV
 https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
@@ -962,18 +992,26 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",** Non-Fiction **
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?NonFiction
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Sword and Shield
-https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8?NonFiction
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Everyday Heroes
-https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Popular Science
+https://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",IDG
+https://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Unidentified
 https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8?NonFiction
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Sword and Shield
+https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8?NonFiction
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Honor TV
 https://a.jsrdn.com/broadcast/d5b48/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",Everyday Heroes
+https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",The Boat Show
+https://a.jsrdn.com/broadcast/256ccf645e/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",The Titanic Channel
-https://a.jsrdn.com/broadcast/22719/+0000/c.m3u8
+https://a.jsrdn.com/broadcast/e6bdcb5ae9/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",** Radio **
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Stingray Hot Country
+https://a.jsrdn.com/broadcast/43jcv95vk1/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Stingray Hit List
 https://a.jsrdn.com/broadcast/rrd456gdc5/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Stingray Hip Hop R&B
@@ -990,8 +1028,6 @@ https://a.jsrdn.com/broadcast/554ddt6uh3/c.m3u8
 https://a.jsrdn.com/broadcast/eew3986vg/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Stingray Rock Alternative
 https://a.jsrdn.com/broadcast/vrd390hvb1/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Stingray Hot Country
-https://a.jsrdn.com/broadcast/43jcv95vk1/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",USA | Stingray Flashback 70s
 https://a.jsrdn.com/broadcast/544vofp09/c.m3u8
 
@@ -1443,8 +1479,6 @@ https://npc.cdn.7livecloud.io/hls/live/SYD1/master_1500.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="Francophone TV",France | France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_855x855.png?raw=true" group-title="Francophone TV",France | TV5 Monde Info
-https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Francophonie24_275x275.png?raw=true" group-title="Francophone TV",France | Francophonie24
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BFM-TV_225x225.png?raw=true" group-title="Francophone TV",France | BFM TV.
@@ -1453,6 +1487,12 @@ https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/87
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BFM-Lyon_225x225.png?raw=true" group-title="Francophone TV",France | BFM TV. Lyon
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_855x855.png?raw=true" group-title="Francophone TV",France | TV5 Monde Info
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_Pacific_200x200.png?raw=true" group-title="Francophone TV",TV5 Monde Pacific | Eng subs
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV5Monde_Style_225x225.png?raw=true" group-title="Francophone TV",TV5 Monde Style | Eng subs
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/D5TV_246x246.png?raw=true" group-title="Francophone TV",France | D5 TV
 http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Francophone TV",Canada | ICI RDI
@@ -1463,7 +1503,7 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="Francophone TV",Canada | Tele-Quebec
 https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" group-title="Francophone TV",Canada | Tele-V
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="Francophone TV",Canada | noovo
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Francophone TV",Canada | Canal Savoir
 https://hls.savoir.media/live/stream.m3u8

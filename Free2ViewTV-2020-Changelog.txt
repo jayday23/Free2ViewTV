@@ -41,6 +41,18 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 9/01/2020 - CHANNEL MAINTENANCE: Tele-V (Canadian TV/Francophone TV), rebranded as 'noovo'. https://noovo.ca/en-direct
+# Update: 9/01/2020 - PLAYLIST MAINTENANCE: Re-organized Francophone TV category, added two new streams from TV5 Monde.
+# Update: 8/31/2020 - NEW CHANNEL ADDED: Whistle TV added to Cinedigm Digital Networks, Sports & Recreation
+# Update: 8/31/2020 - NEW CHANNELS ADDED: From https://mytvtogo.net/ - Sci-Fi 4U, Horrified TV into Nostalgia Flicks category.
+# Update: 8/27/2020 - CHANNEL MAINTENANCE: new stream URL for PBS | WNET TV | Thirteen, which is now Geo-blocked to USA IP addresses.
+# Update: 8/24/2020 - CATEGORY MAINTENANCE: Cleaned up the SPORTS & RECREATION category.
+# Update: 8/24/2020 - CHANNEL UPDATED: CBS Sports HQ is no longer geo-locked. https://www.cbssports.com/live/
+# Update: 8/24/2020 - CHANNEL MAINTENANCE: Duplicated CBS Sports HQ and ET Live into the CBS News category.
+# Update: 8/23/2020 - NEW CHANNEL ADDED: The Preview Channel added to Movies Plus. https://www.thepreviewchannel.com
+# Update: 8/23/2020 - NEW CHANNEL ADDED: The Archive added to Movies Plus. https://www.thearchive.tv/devices
+# Update: 8/19/2020 - NEW CHANNEL ADDED: WPT to Sports & Recreation. https://www.worldpokertour.com/tag/wpt-live-streaming/
+# Update: 8/19/2020 - CATEGORY MAINTENANCE: Updated DistroTV category with new line-up and channels. https://www.distro.tv/
 # Update: 8/17/2020 - CHANNEL MAINTENANCE: Moved English-language U.A.E. channels into International TV; removed U.A.E. group.
 # Update: 8/16/2020 - CHANNEL MAINTENANCE: Updated Buzzr TV link (EPG | Free2View TV) streams shows 24/7, but uses regional EPG. 
 # Update: 8/16/2020 - NEW CHANNELS ADDED / CATEGORY MAINTENANCE: Added the full line-up of channels in Bumblebee TV.
