@@ -41,6 +41,44 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 10/31/2020 - NEW CHANNEL ADDED: Added VSiN | Webstream (Sports & Recreation) from https://www.vsin.com/livestream/
+# Update: 10/31/2020 - NEW CHANNEL ADDED: Added Poker Night In America (Sports & Recreation) from https://www.glewed.tv/
+# Update: 10/30/2020 - CHANNEL MAINTENANCE: Updated live stream URL for CBS Sports HQ (CBS News; Sports & Recreation).
+# Update: 10/30/2020 - CATEGORY MAINTENANCE: Updated several stream URLs in Sports & Recreation category.
+# Update: 10/26/2020 - MAINTENANCE + NEW: Updated several stream URLs in Special Interest category; added Cooking Panda (2 sources).
+# Update: 10/26/2020 - CHANNEL MAINTENANCE: Updated Outside TV+ stream URL in Sports & Recreation category.
+# Update: 10/25/2020 - CATEGORY MAINTENANCE: Minor maintenance to the Distro TV category (updated channel names).
+# Update: 10/24/2020 - MAINTENANCE + NEW: Updated Redbox Free Live TV with line-up shuffle and new channels.
+# Update: 10/24/2020 - MAINTENANCE + NEW: Updated Xumo | Live TV with additional Live 24/7 streams.
+# Update: 10/20/2020 - CHANNELS REMOVED: All DJing channels (and category) have been deleted; now a paid subscription service.
+# Update: 10/18/2020 - CHANNEL MAINTENANCE: Re-organized Skills + Thrills to match the 'time-shift' of the streaming services.
+# Update: 10/17/2020 - CATEGORY MAINTENANCE: Added Entertainment | MULTI-STREAMS section in the Entertainment category.
+# Update: 10/17/2020 - NEW CHANNELS ADDED: Updated sources for Circle; new Skills + Thrills (Entertainment | MULTI-STREAMS).
+# Update: 10/17/2020 - CHANNEL MAINTENANCE: Updated sources for the 'nosey' channels in the Entertainment category.
+# Update: 10/16/2020 - NEW CHANNEL ADDED: CBC News unlocked, added all resolutions to new TEMP | CBC News (Geo-CA) category.
+# Update: 10/10/2020 - CHANNEL MAINTENANCE: Updated streams in Cinedigm Digital Networks category.
+# Update: 10/10/2020 - CHANNEL MAINTENANCE: Updated The Film Detective streams in Movies Plus category.
+# Update: 10/09/2020 - NEW CHANNEL ADDED: Two new sources for CIRCLE in Entertainment, USA FREE OTA TV categories.
+# Update: 10/01/2020 - CHANNEL MAINTENANCE: Updated streams in Special Interest and Geeks + Gaming categories.
+# Update: 9/28/2020 - NEW CHANNEL ADDED: USA FREE OTA TV, http://www.victorvalleytv.com streams updated; new Movies channel added.
+# Update: 9/27/2020 - DELETED/ADDED: News & Weather: deleted dead Canadian news streams; added Newsy streams. https://www.newsy.com
+# Update: 9/24/2020 - NEW: International | Spanish category, with channels now avilable on major free digital streaming services.
+# Update: 9/21/2020 - NEW CHANNELS ADDED: RunTime Free TV; A.D., now avilable on major free digital streaming services.
+# Update: 9/20/2020 - NEW CHANNELS ADDED: Two channels from WATC-57 (Faith & Spirituality; USA FREE OTA TV). http://watc.tv
+# Update: 9/19/2020 - CATEGORY MAINTENANCE: Updated Sports & Recreation category (cleaned up broken / mislabeled links)
+# Update: 9/19/2020 - CATEGORY MAINTENANCE: Updated Sports & Recreation category (cleaned up broken / mislabeled links)
+# Update: 9/18/2020 - NEW CHANNEL ADDED: Z Living (Entertainment; USA FREE OTA TV). Online live stream: https://www.zliving.com
+# Update: 9/15/2020 - NEW CHANNEL ADDED: Magellan TV Now, now avilable on major free digital streaming services, to Movies Plus.
+# Update: 9/14/2020 - NEW CATEGORY ADDED: Added Geeks + Gaming group with new and relocated channels from Special Interest group.
+# Update: 9/14/2020 - CATEGORY MAINTENANCE: Added new channels and reogranized Redbox Free Live TV to match existing lineup.
+# Update: 9/13/2020 - CATEGORY: Group renamed INTERNATIONAL | ITALY with additional channels. https://www.mediasetplay.mediaset.it
+# Update: 9/12/2020 - CHANNEL MAINTENANCE: WeatherNation (main stream) updated in NEWS & WEATHER and TV25 groups.
+# Update: 9/11/2020 - NEW CATEGORY ADDED: Added the complete list of PBS Member Stations. https://www.pbs.org/livestream/ 
+# Update: 9/11/2020 - NEW CATEGORY ADDED: Added the complete list of PBS Member Stations. https://www.pbs.org/livestream/ 
+# Update: 9/10/2020 - CHANNEL MAINTENANCE: CTV News and CP24 removed from Canadian TV; no longer available for free viewing.
+# Update: 9/09/2020 - CHANNEL MAINTENANCE: Updated alternate source for Plymouth Rock TV in Travel & Tourism.
+# Update: 9/09/2020 - CATEGORY MAINTENANCE: Updated DistroTV category additional new channels. https://www.distro.tv/
+# Update: 9/08/2020 - NEW CATEGORY ADDED: Testing a new VOD category, mostly vintage public domain movies served by Free2View TV.
 # Update: 9/01/2020 - CHANNEL MAINTENANCE: Tele-V (Canadian TV/Francophone TV), rebranded as 'noovo'. https://noovo.ca/en-direct
 # Update: 9/01/2020 - PLAYLIST MAINTENANCE: Re-organized Francophone TV category, added two new streams from TV5 Monde.
 # Update: 8/31/2020 - NEW CHANNEL ADDED: Whistle TV added to Cinedigm Digital Networks, Sports & Recreation
