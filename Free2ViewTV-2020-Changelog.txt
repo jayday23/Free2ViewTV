@@ -41,6 +41,35 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 12/04/2020 - NEW CHANNELS ADDED: by request from user, added additional channels in "International | Italy" category.
+# Update: 12/03/2020 - MAINTENANCE: Relocated "Nostalgia Flicks" after "Movies Plus" to fit better into 'movies' section of playlist. 
+# Update: 12/03/2020 - MAINTENANCE + NEW: Updated streams / added Kartoon Fun Time in "Nostalgia Flicks" category.
+# Update: 12/03/2020 - NEW SOURCES: New official sources for Spydar TV and Kartoon Fun Time, courtesy of https://morcaman.com
+# Update: 12/02/2020 - NEW CHANNELS ADDED: Several new channels from The Roku Channel US have been added. 
+# Update: 12/02/2020 - MAINTENANCE + NEW: Updated streams / added Wipeout Xtra in "Gameshows & Competitions" category.
+# Update: 12/01/2020 - NEW CHANNEL: Added 'Home For The Holidays' channel from  Pluto TV in "TEMP | Merry Christmas" category.
+# Update: 12/01/2020 - NEW CHANNELS: iHeart Radio Christmas TV streams (music w/ album covers on screen) in "TEMP | Merry Christmas".
+# Update: 12/01/2020 - NEW CHANNEL: "TEMP | Merry Christmas": Stingray Naturescape running Fireplaces 24/7 over the Holidays.
+# Update: 11/30/2020 - NEW: Changed "PBS Member Stations (Geo-USA)" to "EPG | PBS (Geo-USA)" with new EPG source and more streams.
+# Update: 11/30/2020 - PLAYLIST MAINTENANCE: Cleaned up "PBS | NPR" category; THIRTEEN moved out as it is in "EPG | PBS (Geo-USA)".
+# Update: 11/30/2020 - NEW CHANNEL: World Channel added to "PBS | NPR" category - https://video.aptv.org/show/world-channel/
+# Update: 11/27/2020 - NEW CHANNELS ADDED: Added Mr. Pickles, Squidbillies, and Tim & Eric Awesome Show streams in "[adult swim]".
+# Update: 11/26/2020 - NEW CHANNELS ADDED: Added new Holiday channels from Pluto TV UK in "TEMP | Merry Christmas" category.
+# Update: 11/25/2020 - MAINTENANCE + NEW: Updated channels and new VOD / radio streams in "TEMP | Merry Christmas" category.
+# Update: 11/24/2020 - MAINTENANCE + NEW: Updated streams / added new channels in "FilmRise Digital Networks" category.
+# Update: 11/23/2020 - NEW CHANNEL ADDED: Added Dark Matter TV, avilable on major free digital streaming services, in "Movies Plus".
+# Update: 11/22/2020 - NEW SEASONAL CATEGORY ADDED: Temporarily added "TEMP | Merry Christmas" with live TV, VOD, and Radio streams.
+# Update: 11/21/2020 - NEW CHANNELS ADDED: Over 30+ new channels from The Roku Channel US have been added.
+# Update: 11/17/2020 - NEW CHANNELS ADDED: Added NBC News Now; Newsy, in "The Roku Channel" group.
+# Update: 11/17/2020 - NEW CHANNELS ADDED: Added "Harley Davidson TV" group and 4 new channels. https://tv.harley-davidson.com/
+# Update: 11/16/2020 - CATEGORY MAINTENANCE: Updated several streams (added CNBC Radio) in "NBC News Networks" group.
+# Update: 11/16/2020 - MAINTENANCE + NEW: Updated NBC News Now, added Euronews to "News & Weather" category.
+# Update: 11/12/2020 - MAINTENANCE + NEW: Updated several stream URLs in "Financial News & Info", added Business Rockstars.
+# Update: 11/11/2020 - TEMPORARY CHANNEL ADDED: Le Canal Nouvelles temporarily unscrambled, added to "Canadian TV" category.
+# Update: 11/10/2020 - PLAYLIST MAINTENANCE: Updated Cheddar live stream in "News & Weather" and "Financial News & Info" groups.
+# Update: 11/10/2020 - PLAYLIST MAINTENANCE: Cleaned up "News & Weather" group; updated WeatherNation (also in TV25 group).
+# Update: 11/04/2020 - NEW CHANNELS: Started "The Roku Channel" with channels in each category; more to be added in each update.
+# Update: 11/03/2020 - NEW CHANNEL ADDED: CNN | Event Stream added (this is NOT the CNN Network feed, only free public events).
 # Update: 10/31/2020 - NEW CHANNEL ADDED: Added VSiN | Webstream (Sports & Recreation) from https://www.vsin.com/livestream/
 # Update: 10/31/2020 - NEW CHANNEL ADDED: Added Poker Night In America (Sports & Recreation) from https://www.glewed.tv/
 # Update: 10/30/2020 - CHANNEL MAINTENANCE: Updated live stream URL for CBS Sports HQ (CBS News; Sports & Recreation).
