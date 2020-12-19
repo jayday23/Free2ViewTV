@@ -41,6 +41,18 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 12/16/2020 - MAINTENANCE + NEW: Updated sources for several channels, added BNC 24/7 in "News & Weather" category.
+# Update: 12/16/2020 - MAINTENANCE + NEW: Updated sources for NBC News Now, added add'l MSNBC Audio source in "NBC News Networks".
+# Update: 12/15/2020 - MAINTENANCE + NEW: Updated entire category and added several new streams in "WatchYour.TV | TVS" category.
+# Update: 12/14/2020 - PLAYLIST MAINTENANCE: FilmOn channels removed (dead links); nosey streams updated, in "Entertainment" group.
+# Update: 12/13/2020 - MAINTENANCE + NEW: Updated streams in "Movies Plus" category; added new MovieSphere channel.
+# Update: 12/12/2020 - NEW CHANNEL: Added new webstream for NASA TV (all streams in NASA TV category best viewed in NATIVE mode).
+# Update: 12/11/2020 - MAINTENANCE + NEW: Updated streams and added new WOTR Radio Network streams in "Old Time Radio" category.
+# Update: 12/10/2020 - CHANNEL REMOVED: Miracle Channel stream is now protected, removed from Canadian TV / Faith categories. 
+# Update: 12/09/2020 - CATEGORY MAINTENANCE: Updated streams in "Harley Davidson TV". https://tv.harley-davidson.com/
+# Update: 12/08/2020 - NEW CHANNELS ADDED: Updated streams and added additional channels to "Redbox Free Live TV".
+# Update: 12/07/2020 - MAINTENANCE + NEW: Updated streams in "Entertainment" category, removed obsolete or duplicate streams.
+# Update: 12/06/2020 - CATEGORY MAINTENANCE: The "TEMP | CBC News (Geo-CA)" free streams have ended, category removed.
 # Update: 12/04/2020 - NEW CHANNELS ADDED: by request from user, added additional channels in "International | Italy" category.
 # Update: 12/03/2020 - MAINTENANCE: Relocated "Nostalgia Flicks" after "Movies Plus" to fit better into 'movies' section of playlist. 
 # Update: 12/03/2020 - MAINTENANCE + NEW: Updated streams / added Kartoon Fun Time in "Nostalgia Flicks" category.

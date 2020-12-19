@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Entertainment",Buzzr | HD
-https://buzzrota-web.amagi.tv/playlist.m3u8?Entertainment
+https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ChargeTV.png" group-title="Entertainment",Charge! (Geo-USA)
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CometTV.png" group-title="Entertainment",Comet TV (Geo-USA)
@@ -10,12 +10,14 @@ http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TBD.png" group-title="Entertainment",TBD Channel
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true" group-title="Entertainment",Circle | HD
+https://circle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ZLiving_512x512.png?raw=true" group-title="Entertainment",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Folk-TV_NEW_720x720.png?raw=true" group-title="Entertainment",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ClassicArtsShowcase.png" group-title="Entertainment",Classic Arts Showcase
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WorldHarvestTelevision_290x290.png?raw=true" group-title="Entertainment",WHT | World Harvest Television
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Dabl_400x400.png" group-title="Entertainment",Dabl (Geo-USA)
@@ -26,52 +28,45 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/YouTooAmerica_225x225.png?raw=true" group-title="Entertainment",YouToo America
 https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BlackSquare.png?raw=true" group-title="Entertainment",** MULTI-STREAMS **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ent1
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true" group-title="Entertainment",Circle | Source 1
-https://circle-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true" group-title="Entertainment",Circle | Source 2
-https://circle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true" group-title="Entertainment",Circle | Source 3
-https://circle-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Entertainment",PBS | WPSU | HD
-https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Entertainment",PBS | Maryland Public TV
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="Entertainment",PBS Kids | KET
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="Entertainment",PBS Kids (Geo-USA) East
-https://live-cdn.pbskids.org/out/u/est.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="Entertainment",PBS Kids (Geo-USA) Hawaii
-https://live-cdn.pbskids.org/out/u/hast.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkillsThrills_130x130.png?raw=true" group-title="Entertainment",Skills + Thrills | Channel 1
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkillsThrills_130x130.png?raw=true" group-title="Entertainment",Skills + Thrills | Ch.2 | +1h
 https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkillsThrills_130x130.png?raw=true" group-title="Entertainment",Skills + Thrills | Ch.3 | +2h
-https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Pop.png?raw=true" group-title="Entertainment",POP *
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM0MjczNjJf/AMCPresents_358x358.png" group-title="Entertainment",AMC Presents *
+https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" group-title="Entertainment",nosey | Jerry Springer
+https://stitcheraws.unreel.me/wse-node04.powr.com/powr_480pt/ngrp:5eb1e7f848f1ff2e1d2555a2_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" group-title="Entertainment",nosey | Maury
+https://stitcheraws.unreel.me/wse-node04.powr.com/powr_480pt/ngrp:5eb1e88458ad7801fa2cfc2e_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" group-title="Entertainment",nosey | Steve Wilkos
+https://stitcheraws.unreel.me/wse-node04.powr.com/powr_480pt/ngrp:5eb1e84c95ee0253b97679d7_all//playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" group-title="Entertainment",nosey | Divorce Court
+https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e76d1474f9020c06f9ee_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" group-title="Entertainment",nosey | Judge Karen's Court
+https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06f9ec_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThePreviewChannel_220x220.png?raw=true" group-title="Movies Plus",The Preview Channel
 https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ElectricEnt_480x480.png" group-title="Movies Plus",Electric Now | HD
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
+https://1cfc2538e92a49b6aca3ccd424b3d474.mediatailor.us-west-2.amazonaws.com/v1/master/2aa80169619e70d2ce8badd72baf024f656bee6b/ElecNowVeset/prod/elec/linear_channel/ottera_cdn.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAsylum_350x350.png?raw=true" group-title="Movies Plus",The Asylum Movie Channel
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheArchive_300x300.png?raw=true" group-title="Movies Plus",The Archive
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=74&live=1&app_bundle=&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=z1MCPUpbxYcHru-5hdyq&content_series=5eea605674085f0040ddc7a0&custom4=plex&gdpr=0&device_make=&device_model=Windows+hosted&coppa=0&us_privacy=1---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" group-title="Movies Plus",The Film Detective | HD
-https://tfd-distro.amagi.tv/index.m3u8
+https://filmdetective-plex.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LoneStar_v2_250x250.png?raw=true" group-title="Movies Plus",Lone Star
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true" group-title="Movies Plus",Xumo Free Westerns
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ShoutFactoryTV_300x300.png?raw=true" group-title="Movies Plus",Shout! Factory TV | HD
-https://shoutfactorytv-xumo.amagi.tv/ssai/amagi_hls_data_xumo1212A-shoutfactory/CDN/master.m3u8
+https://shoutfactory-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" group-title="Movies Plus",Dust | Channel 1
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" group-title="Movies Plus",Dust | Channel 2
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokudust/CDN/master.m3u8?p=roku
+https://dust-roku-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MagellanTVNow_503x503.png?raw=true" group-title="Movies Plus",Magellan TV Now | HD
 https://magellantv-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RetroCrush_576x576.png?raw=true" group-title="Movies Plus",RetroCrush TV
@@ -80,6 +75,8 @@ https://digitalmediarights-retrocrush-1.plex.wurl.com/manifest/playlist.m3u8
 https://midnightpulp-samsung.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DarkMatterTV_218x218.png?raw=true" group-title="Movies Plus",Dark Matter TV
 https://dmtv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Movies Plus",MovieSphere | HD
+https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true" group-title="Movies Plus",RunTime Free Movies
 https://ammoruntime-plex.amagi.tv/playlist.m3u8
 
@@ -223,15 +220,13 @@ https://d3je5q1nueb5wn.cloudfront.net/p/DOME.m3u8
 http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AmazingDiscoveries_430x430.png?raw=true" group-title="Faith & Spirituality",Amazing Discoveries
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Miracle-Channel_300x300.png?raw=true" group-title="Faith & Spirituality",The Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="News & Weather",CBS News
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="News & Weather",ABC News Live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="News & Weather",CBS News | HD
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="News & Weather",ABC News Live | HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="News & Weather",NBC News Now | HD
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_roku_lat=1&platform=web&content=fc509fc922805196b5930e519de58fc8&genre=news&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=nbc&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908
+https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CNN.png?raw=true" group-title="News & Weather",CNN | Event Stream
 https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/de/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/WeatherNation.png" group-title="News & Weather",Weather Nation | Webstream
@@ -242,8 +237,10 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Cheddar_900x900.png" group-title="News & Weather",Cheddar | Webstream
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsMaxTV.png" group-title="News & Weather",Newsmax TV | HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsMaxTV.png" group-title="News & Weather",NewsMax TV | Webstream
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsMaxTV.png" group-title="News & Weather",NewsMax TV | Alternate
+https://d3ut7rvli78ywi.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/NewsmaxLive/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="News & Weather",News Net | SD
 https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="News & Weather",News Net | HD
@@ -252,6 +249,8 @@ https://nrpus.bozztv.com/36bay2/gusa-newsnet/index.m3u8
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Newsy_359x359.png?raw=true" group-title="News & Weather",Newsy | Alternate
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8?ad=therokuchannel
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM3MzA0MDFf/BNC247_300x300.png" group-title="News & Weather",BNC 24/7 | HD
+https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8	
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="News & Weather",Global News Canada
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EuroNews_400x400.png?raw=true" group-title="News & Weather",Euronews | HD
@@ -316,9 +315,9 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Networks",NBC News Now | Source 1
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_roku_lat=1&platform=web&content=fc509fc922805196b5930e519de58fc8&genre=news&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=nbc&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Networks",NBC News Now | Source 2
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206-b/nnn_live2/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Networks",NBC News Now Event 1
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Networks",NBC News Now Event 2
@@ -333,12 +332,14 @@ https://nbcnews-lh.akamaihd.net/i/nbc_live21@183428/master.m3u8
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BlackSquare.png?raw=true" group-title="NBC News Networks",** NBC News Networks Radio **
 https://od.lk/s/MF8yMjIyMjc1MjZf/GenericAudioWPP.mp4
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/TuneIn_Generic_864x864.png?raw=true" group-title="NBC News Networks" radio="true",MSNBC (Audio Only)
-https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v2/newsfree/msnbcfree/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/TuneIn_Generic_864x864.png?raw=true" group-title="NBC News Networks" radio="true",CNBC (Audio)
-https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v2/newsfree/cnbcfree/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_NBCNews_200x200.png?raw=true" group-title="NBC News Networks" radio="true",NBC News Radio
 https://stream.revma.ihrhls.com/zc6043/hls.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM3MTMzMzdf/MSNBC.png" group-title="NBC News Networks" radio="true",MSNBC (Audio Only) | Sc.1
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v2/newsfree/msnbcfree/master.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM3MTMzMzdf/MSNBC.png" group-title="NBC News Networks" radio="true",MSNBC (Audio Only) | Sc.2
+https://wrau.streamguys1.com/msnbc-free
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/TuneIn_Generic_864x864.png?raw=true" group-title="NBC News Networks" radio="true",CNBC (Audio)
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v2/newsfree/cnbcfree/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Bloomberg_512x512.png" group-title="Financial News & Info",Bloomberg US Desktop
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
@@ -455,13 +456,13 @@ https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_4.m3u8
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Harley Davidson TV",Harley Davidson TV
-https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
+https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Harley Davidson TV",Harley Davidson Racing TV
-https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
+https://hdtv.prod2.ioio.tv/broker/play/797c5c1c-160c-4c17-a149-e31a0467ab62.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Harley Davidson TV",Harley Davidson Factory TV
 https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Harley Davidson TV",Harley Davidson Garage TV
-https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
+https://hdtv.prod2.ioio.tv/broker/play/b8789d55-d110-4452-a578-3a206afa3972.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Gameshows & Competitions",Buzzr | Webstream
 https://buzzrota-web.amagi.tv/playlist.m3u8
@@ -524,6 +525,8 @@ https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/5-Min-Crafts_340x340.png" group-title="Special Interest",5m Life Hacks
 https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV | Webstream
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 1 (Public)
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="NASA TV",NASA TV 2 (Media)
@@ -658,23 +661,6 @@ http://diffusionm4.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
 http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AmazingDiscoveries_430x430.png?raw=true" group-title="Canadian TV",Amazing Discoveries (Faith)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Miracle-Channel_300x300.png?raw=true" group-title="Canadian TV",The Miracle Channel (Faith)
-https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBCNews_TempFeed_418x418.png?raw=true" group-title="TEMP | CBC News (Geo-CA)",** For a Limited Time **
-https://od.lk/s/MF8yMjA4MTQ1MzRf/CBCNews_TempLive.mp4
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBCNews_TempFeed_418x418.png?raw=true" group-title="TEMP | CBC News (Geo-CA)",CBC News Network | 1080p
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBCNews_TempFeed_418x418.png?raw=true" group-title="TEMP | CBC News (Geo-CA)",CBC News Network | 720p
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBCNews_TempFeed_418x418.png?raw=true" group-title="TEMP | CBC News (Geo-CA)",CBC News Network | 540p
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master1.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBCNews_TempFeed_418x418.png?raw=true" group-title="TEMP | CBC News (Geo-CA)",CBC News Network | 432p
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master3.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBCNews_TempFeed_418x418.png?raw=true" group-title="TEMP | CBC News (Geo-CA)",CBC News Network | 360p
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master2.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBCNews_TempFeed_418x418.png?raw=true" group-title="TEMP | CBC News (Geo-CA)",CBC News Network | 270p
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master4.m3u8
 
 #EXTINF:-1 tvg-id="CBRTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
@@ -1463,6 +1449,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playl
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Reelz Channel
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Divorce Court
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdivorcecourt/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | nosey
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | real nosey
@@ -1475,8 +1463,8 @@ https://od.lk/s/MF8yMTY4NzI4MTlf/RedboxLiveTV_YouCantBeatFree_TVSpots.mp4?Entert
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Global Got Talent
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Vevo
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Showtime...Apollo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | The Bob Ross Channel
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbobross/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | People are Awesome
@@ -1495,16 +1483,16 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Bon Appetit
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | The Design Network
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Food 52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Hungry
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Architectural Digest
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | So Yummy!
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | The Design Network
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Hungry
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",** Redbox | Lifestyle **
 https://od.lk/s/MF8yMTY4NzI4MTlf/RedboxLiveTV_YouCantBeatFree_TVSpots.mp4?Lifestyle
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Fuse XL
@@ -1527,12 +1515,16 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjustforlaughsgags/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Comedy Dynamics
 https://comedydynamicsclean-redbox-ll.cinedigm.com/hls/amagi_hls_data_xumo-host-comedydynamicscleanredbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | LOL! Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxlolcomedy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | MST3K
 https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Fail Army
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | the pet collective
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Drybar Comedy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdrybar/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Chive TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",** Redbox | Classic TV & Movies **
@@ -1543,6 +1535,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playl
 https://shoutfactory-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-shoutfactorytv/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Johnny Carson TV
 https://johnnycarson-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-johnnycarson-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Carol Burnett
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbestofcarolburnettshow/CDN/playlist.m3u8?p=redboxx&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | American Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | The Archive
@@ -1561,14 +1555,16 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist
 https://dove-redbox.cinedigm.com/hls/amagi_hls_data_xumo-host-dovenow-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | pocketwatch
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Best of AFV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxafhv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",** Redbox | Music **
 https://od.lk/s/MF8yMTY4NzI4MTlf/RedboxLiveTV_YouCantBeatFree_TVSpots.mp4?Music
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Hot Country
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Greatest Hits
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Vevo Holiday
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevoholiday/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Vevo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Classic Rock
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="Redbox Free Live TV",Redbox | Hit List
@@ -1858,54 +1854,78 @@ https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?ScienceNature
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Roku | WeatherSpy
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuweatherspy/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_01_TVS-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Television Network
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Television Network
 https://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_13_TVS-Main-Street_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Main Street
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Home Ent. Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Main Street
 https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_01_TVS-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Select Network
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Select Network
 https://nrpus.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_02_TVS-Classic-Sports_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Classic Sports
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Classic Sports
 https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_03_TVS-Boxing-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Boxing Network
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Boxing Network
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_04_TVS-Turbo-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Turbo Network
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Turbo Network
 https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_05_TVS-Tavern-TV_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Tavern TV
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Tavern TV
 https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_06_TVS-Sports-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Sports Network
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Sports Network
 https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_07_TVS-Womens-Sports-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Women's Sports Network
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Women's Sports Network
 https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_08_TVS-Classic-Movies_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Classic Movies
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Sports Bureau
+https://nrpus.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Classic Movies
 https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_09_TVS-Drive-In-Movie_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Drive In Movie
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Drive In Movie
 https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_10_TVS-Hollywood-History_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Hollywood History
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Hollywood History
 https://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_20_TVS-Horror_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Horror Network
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Film Noir Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Horror Network
 https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_11_TVS-Nostalgia-Movies_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Nostalgia Movies
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Nostalgia Movies
 https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_12_TVS-Western-Movies_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Western Movie
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Western Movie
 https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_14_TVS-Frontier_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Frontier
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Frontier
 https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_15_TVS-Nostalgia_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Nostalgia
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Front Page Detective
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Mystery Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Nostalgia
 https://nrpus.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_16_TVS-Flashback-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Flashback Network
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Flashback Network
 https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_19_TVS-Comedy_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Comedy Network
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Music Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Sitcom
 https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_21_TVS-TallyHo_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Tally Ho
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Tally Ho
 https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_22_TVS-Travel_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Travel Network
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Travel Network
 https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_17_TVS-Family-Channel_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Family Channel
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Pet Parade Network
+https://nrpus.bozztv.com/36bay2/gusa-petparadenetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Cartoon Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Family Channel
 https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_01_TVS-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Game Show Network
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Quiz Show Network
 https://nrpus.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_18_TVS-Hi-Tops_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Hi Tops
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Hi Tops
 https://nrpus.bozztv.com/36bay2/gusa-hitops/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Inspirational Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",Jewelry Television
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",Rare Collectibles TV
+https://nrpus.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM1OTgzODJf/WatchYourTV_NEW_256x256.png" group-title="WatchYour.TV | TVS",TVS Consumer Direct
+https://nrpus.bozztv.com/36bay2/gusa-ConsumerDirect/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",BeeTV | Delicious TV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9529aa932c837b493972cb/playlist.m3u8
@@ -2410,7 +2430,7 @@ https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/index_96_a-p.m3u8?sd=10
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",Radio | OTR | Radio Wallpaper
 https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/videos/5B-OldRadio_modified.mp4?6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio" radio="true",OTR Antioch OTR
-http://209.95.56.101:8000/listen
+https://s6.yesstreaming.net:18000/listen
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio" radio="true",OTR AM600 Conyers OTR
 http://206.190.133.196:7161/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio" radio="true",OTR WRCW Radio - GUNSMOKE
@@ -2419,6 +2439,12 @@ http://107.181.227.250:8166/stream
 http://streaming.radio.co/sf5708c004/listen
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio" radio="true",OTR Yesterday USA Blue
 http://streaming.radio.co/sa37b728bf/listen
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio" radio="true",WOTR | Old Time Radio USA
+https://listen.openstream.co/4884/;listen
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio" radio="true",WOTR | Crime Time Radio USA
+https://listen.openstream.co/4799/;listen
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio" radio="true",WOTR | Suspense Radio USA
+https://listen.openstream.co/4885/;listen
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-VOD.png?raw=true" group-title="Free2View TV | VOD",** VOD | Free2View TV **
 https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?VOD1
@@ -2439,7 +2465,6 @@ https://github.com/geonsey/Free2ViewTV/blob/master/videos/3-Free2ViewTV_BuyMeACo
 https://od.lk/s/MF8yMTU5MTYzMTVf/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Movie Magic Screensaver
 https://od.lk/s/MF8yMTU5MTU4NzZf/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
-
 
 
 
