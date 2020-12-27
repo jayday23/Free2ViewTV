@@ -41,6 +41,13 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: **** PLEASE NOTE: DUE TO TECHNICAL ISSUES BEYOND OUR CONTROL, EPG SERVED BY F2V-TV IS DISCONTINUED; ALTERNATE EPG AVAIL. ****
+# Update: 12/23/2020 - MAINTENANCE + NEW: Ontario Legislature Assembly (EN/FR); add'l EWTN streams added to "Canadian TV" group.
+# Update: 12/23/2020 - MAINTENANCE: Le Canal Nouvelles removed (temp free stream ended); updated Tele-Quebec stream ("Canadian TV").
+# Update: 12/23/2020 - NEW CHANNEL ADDED: Salt+Light TV webstream added to "Canadian TV" - https://slmedia.org/live/
+# Update: 12/22/2020 - NEW VOD ADDED: Added new VOD Christmas / Holiday movies in the "TEMP | Merry Christmas" category.
+# Update: 12/21/2020 - MAINTENANCE + NEW: Old EPG no longer avail; new EPG source and added new channels in "EPG | Free2View TV".
+# Update: 12/20/2020 - CATEGORY MAINTENANCE: EPG removed from "USA FREE OTA TV25" (no longer working) and category relocated. 
 # Update: 12/16/2020 - MAINTENANCE + NEW: Updated sources for several channels, added BNC 24/7 in "News & Weather" category.
 # Update: 12/16/2020 - MAINTENANCE + NEW: Updated sources for NBC News Now, added add'l MSNBC Audio source in "NBC News Networks".
 # Update: 12/15/2020 - MAINTENANCE + NEW: Updated entire category and added several new streams in "WatchYour.TV | TVS" category.
