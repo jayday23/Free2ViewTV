@@ -469,6 +469,8 @@ https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" group-title="Sports & Recreation",Outside TV | HD
 https://outsidetvplus-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjY2NzM2NzBf/Generic_WatchLive_500x500.png" group-title="Sports & Recreation",Snowy Mountains Television
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true" group-title="Sports & Recreation",beIN Sports Xtra | HD
 https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RedBullTV_512x512.png" group-title="Sports & Recreation",Red Bull TV | HD
@@ -483,8 +485,6 @@ https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
 https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE_B.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FTFNext_576x576.png?raw=true" group-title="Sports & Recreation",FTF Next | LSN (Geo-USA)
 https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/master.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwOTU3ODRf/OnlyMotors_360x360.png" group-title="Sports & Recreation",OnlyMotors TV UK
-https://streamingserver002.viewtvgroup.com/KUK-ONLYMOTORSTV-UK/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwOTU2NjBf/SupercarBlondie_300x300.png" group-title="Sports & Recreation",Supercar Blondie
 https://bozztv.com/36bay2/gin/giniko_supercarblondie_1000kb_36bay2/index.m3u8
 
@@ -903,31 +903,6 @@ https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BTN_355x355.png?raw=true" group-title="USA FREE OTA TV",Blues Television Network
 https://uni01rtmp.tulix.tv/aitterce/aitterce/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA FREE OTA TV25" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",TV25.1 Buzzr
-https://buzzrota-web.amagi.tv/playlist.m3u8?TV25
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA FREE OTA TV25" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",TV25.2 NewsNet
-https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8?TV25
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA FREE OTA TV25" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",TV25.3 Antenna TV
-https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA FREE OTA TV25" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",TV25.4 Action
-https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA FREE OTA TV25" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",TV25.5 NewsMax TV
-https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA FREE OTA TV25" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",TV25.6 WeatherNation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA FREE OTA TV25" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",TV25.7 Rev'n
-https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA FREE OTA TV25" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",TV25.8 Untamed Sports TV
-https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA FREE OTA TV25" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",TV25.9 Retro TV
-https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA FREE OTA TV25" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",TV25.10 Shop LC
-https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA FREE OTA TV25" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",TV25.11 This TV
-https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="USA FREE OTA TV25" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",TV25.12 Jewelry TV
-https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
-
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS | NPR",PBS | WPSU TV | HD
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS | NPR",PBS | Maryland Public TV
@@ -1155,6 +1130,33 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8?WVPB
 https://wmvsdt.lls.cdn.pbs.org/wmvsdt/27146fbb-5f51-4924-9e00-bb46e89e18a8/primary.m3u8
 #EXTINF:-1 tvg-id="KCWC" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="EPG | PBS (Geo-USA)",WY | KCWC PBS Riverton
 https://kcwcdt.lls.cdn.pbs.org/kcwcdt/84b31db3-3cd6-442f-b87b-1ec11d54259d/primary.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5MzA4OTBf/F2V-TV_Logo.png" group-title="EPG | USA FREE TV | 66101",** NEW EPG 2021 ** Watch me!
+https://od.lk/s/MF8yMjU5MjYxODNf/EPGUpdate2021_F2V-EPG.mp4?1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5MzA4OTBf/F2V-TV_Logo.png" group-title="EPG | USA FREE TV | 66101",** EPG info may differ from webstream **
+https://od.lk/s/MF8yMjU5MjYxODNf/EPGUpdate2021_F2V-EPG.mp4?2
+#EXTINF:-1 tvg-id="I25.1.97116.zap2it.com" tvg-name="25.1" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjM5NTQxNTZf/BUZZR.png",EPG | Buzzr | Webstream
+https://buzzrota-web.amagi.tv/playlist.m3u8?66101
+#EXTINF:-1 tvg-id="I50.3.43959.zap2it.com" tvg-name="50.3" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjM0MjczODBf/IonPlus_420x420.png",EPG | ION Plus
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="I62.3.82932.zap2it.com" tvg-name="62.3" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NjZf/Dabl_400x400.png",EPG | Dabl (Geo-USA)
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
+#EXTINF:-1 tvg-id="I62.4.113740.zap2it.com" tvg-name="62.4" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NTJf/CoziTV_WZTS_218x218.png",EPG | Cozi TV (National EPG)
+https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
+#EXTINF:-1 tvg-id="I62.5.113739.zap2it.com" tvg-name="62.5 KSMODT5" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjY2MjYwMTlf/Circle_332x332.png",EPG | Circle | Webstream
+https://circle-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="I4.3.94944.zap2it.com" tvg-name="4.3" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjY2MjQ5NDJf/CourtTV_450x450.png",EPG | Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
+#EXTINF:-1 tvg-id="I25.2.97117.zap2it.com" tvg-name="25.2" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjY2MjI1OTlf/NewsNet.png",EPG | NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+#EXTINF:-1 tvg-id="I25.5.97119.zap2it.com" tvg-name="25.5" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjY2MjMwMDdf/NewsMaxTV.png",EPG | NewsMax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="I25.6.97120.zap2it.com" tvg-name="25.6" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjY2MjMxMDVf/WeatherNation.png",EPG | WeatherNation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 tvg-id="I21.4.100102.zap2it.com" tvg-name="21.4 KAJFLD4" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjY2MjMzODNf/ShopLC_800x800.png",EPG | Shop LC
+https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
+#EXTINF:-1 tvg-id="I25.12.106746.zap2it.com" tvg-name="25.12" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjY2MjM2MTlf/JewelryTV_1024x1024.png",EPG | Jewelry TV
+https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Exclamation_225x225.png?raw=true" group-title="EPG | Free2View TV",** NEW EPG 2021 ** Watch me!
 https://od.lk/s/MF8yMjQwMDg2MjBf/EPGUpdate2021_v1.mp4
@@ -2218,6 +2220,14 @@ https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/D5TV_246x246.png?raw=true" group-title="Francophone TV",France | D5 TV
 http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="Francophone TV",Rouge TV (18+ overnight) [Sc.1]
+https://livevideo.infomaniak.com/streaming/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="Francophone TV",Rouge TV (18+ overnight) [Sc.2]
+https://rougetv.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="Francophone TV",Rouge TV (18+ overnight) [Sc.3]
+https://edge7.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="Francophone TV",Rouge TV (18+ overnight) [Sc.4]
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Francophone TV",Canada | ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Francophone TV",Canada GEO | ICI Tele Montreal

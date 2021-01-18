@@ -41,6 +41,14 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 01/16/2021 - NEW CHANNEL: Added Rouge TV (18+ during overnight hours) in "Francophone TV".   https://www.rougetv.ch
+# Update: 01/16/2021 - NEW CHANNEL: Added Snowy Mountains TV, "Sports & Recreation".    https://www.snowymountains.tv
+# Update: 01/16/2021 - MAINTENANCE + NEW: OnlyMotors TV live stream removed (dead); COMING SOON, more motorsports related channels!
+# Update: 01/15/2021 - NEW CATEGORY: Discontinued "USA FREE OTA TV25", renamed "EPG | USA FREE TV | 66101" with new sources...
+# Update: 01/15/2021 - NEW CHANNELS: ...added Circle, Ion Plus from Vizio sources to "EPG | USA FREE TV | 66101" ...
+# Update: 01/15/2021 - EXCLUSIVE EPG SOURCE: "EPG | USA FREE TV | 66101" EPG URL: https://od.lk/s/MF8yMjU5MjEyMDZf/KCK_66101.xml
+# Update: **** COMING SOON: Plans to add new group "TV SHOPPING"; new Radio streams; update to the full Sports & Recreation category.
+# Update: **** COMING SOON: Alternate streams for The Roku Channel and Redbox live streams. More EPG sources for other categories.
 # Update: 01/11/2020 - NEW CHANNEL: The CW Seed Live (Geo-USA) added to "Entertainment".    https://www.cwseed.com/watch-live/
 # Update: 01/07/2020 - NEW CHANNEL: Supercar Blondie added to "Adult Lifestyle & Interests" and "Sports & Recreation" categories.
 # Update: 01/07/2020 - NEW CHANNEL: OnlyMotors TV UK added to "Sports & Recreation" category.   https://onlymotors.tv/live/
