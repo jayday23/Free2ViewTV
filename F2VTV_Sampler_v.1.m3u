@@ -1,0 +1,56 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Entertainment",Buzzr
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ChargeTV.png" group-title="Entertainment",Charge!
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CometTV.png" group-title="Entertainment",Comet TV
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ZLiving_512x512.png?raw=true" group-title="USA FREE OTA TV",Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8?OTATV
+#EXTINF:-1 tvg-id="I48.2.55565.zap2it.com" tvg-name="48.2 WRNNDT2" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjY2MjYwMTlf/Circle_332x332.png",Circle | Webstream
+https://circle-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAsylum_350x350.png?raw=true" group-title="Movies Plus",The Asylum Movie Channel
+https://asylum-stirr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ElectricEnt_480x480.png" group-title="Movies Plus",Electric Now
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" group-title="Movies Plus",The Film Detective
+https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LoneStar_v2_250x250.png?raw=true" group-title="Movies Plus",Lone Star
+https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" group-title="Movies Plus",Dust | Channel 1
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CoziTV_WZTS_218x218.png?raw=true" group-title="USA FREE OTA TV",WZTS-TV | Cozi TV
+https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Free-Movies_300x300.png?raw=true" group-title="FilmRise Digital Networks",FilmRise | Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Classic-TV_300x300.png?raw=true" group-title="FilmRise Digital Networks",FilmRise | Classic TV
+https://hls.xumo.com/channel-hls/v1/9fe012a9926c4e91/9999400/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Sci-Fi_355x355.png?raw=true" group-title="FilmRise Digital Networks",FilmRise | FilmRise Sci-Fi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8?p=roku
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise-Action_442x442.png?raw=true" group-title="FilmRise Digital Networks",FilmRise | FilmRise Action
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8?p=roku
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="News & Weather",CBS News
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="News & Weather",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="News & Weather",NBC News Now | HD
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" group-title="News on Tubi",Tubi | CBC News Highlights
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="News & Weather",Global News Canada
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Kaloopy_340x340.png?raw=true" group-title="Women's & Men's Interests",Kaloopy (18+)
+https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlymouthRockTV_205x205.png?raw=true" group-title="Travel & Tourism",Plymouth Rock TV
+https://hls-cdn.tvstartup.net/barakyah-channel/live/plymouthtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",Family | Lego Toons
+https://stitcheraws.unreel.me/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",Stingray Classica
+https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",Stingray Naturescape
+https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
