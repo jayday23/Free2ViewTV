@@ -41,6 +41,25 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 01/16/2021 - NEW CHANNEL: Added Rouge TV (18+ during overnight hours) in "Francophone TV".   https://www.rougetv.ch
+# Update: 01/16/2021 - NEW CHANNEL: Added Snowy Mountains TV, "Sports & Recreation".    https://www.snowymountains.tv
+# Update: 01/16/2021 - MAINTENANCE + NEW: OnlyMotors TV live stream removed (dead); COMING SOON, more motorsports related channels!
+# Update: 01/15/2021 - NEW CATEGORY: Discontinued "USA FREE OTA TV25", renamed "EPG | USA FREE TV | 66101" with new sources...
+# Update: 01/15/2021 - NEW CHANNELS: ...added Circle, Ion Plus from Vizio sources to "EPG | USA FREE TV | 66101" ...
+# Update: 01/15/2021 - EXCLUSIVE EPG SOURCE: "EPG | USA FREE TV | 66101" EPG URL: https://od.lk/s/MF8yMjU5MjEyMDZf/KCK_66101.xml
+# Update: **** COMING SOON: Plans to add new group "TV SHOPPING"; new Radio streams; update to the full Sports & Recreation category.
+# Update: **** COMING SOON: Alternate streams for The Roku Channel and Redbox live streams. More EPG sources for other categories.
+# Update: 01/11/2020 - NEW CHANNEL: The CW Seed Live (Geo-USA) added to "Entertainment".    https://www.cwseed.com/watch-live/
+# Update: 01/07/2020 - NEW CHANNEL: Supercar Blondie added to "Adult Lifestyle & Interests" and "Sports & Recreation" categories.
+# Update: 01/07/2020 - NEW CHANNEL: OnlyMotors TV UK added to "Sports & Recreation" category.   https://onlymotors.tv/live/
+# Update: 01/06/2020 - CHANNEL MAINTENANCE: Updated live stream for Jasmin TV in "Adult Lifestyle & Interests" category.
+# Update: 01/04/2020 - MAINTENANCE + NEW: Updated streams in "Cinedigm Digital Networks", as well as added several new channels.
+# Update: **** COMING SOON: Alternate streams for The Roku Channel and Redbox live streams. More EPG sources for other categories.
+# Update: 12/31/2020 - NEW CHANNELS ADDED: Victor Valley 2 33.2 and KNET-CD 25.2 local access channels added to "USA FREE OTA TV".
+# Update: 12/30/2020 - NEW CHANNELS ADDED: Love Nature and Xplore linear streams added to Entertainment category.
+# Update: 12/28/2020 - CHANNEL MAINTENANCE: Added additional stream for Game Show Central in "Gameshows & Competitions".
+# Update: 12/28/2020 - NEW CHANNELS ADDED: Rakuten Action Movies from the UK, and Crackle, both added to "Movies Plus" group.
+# Update: 12/26/2020 - NEW CHANNELS / CATEGORY: Added "News on Tubi", courtesy of https://www.apsattv.com
 # Update: **** PLEASE NOTE: DUE TO TECHNICAL ISSUES BEYOND OUR CONTROL, EPG SERVED BY F2V-TV IS DISCONTINUED; ALTERNATE EPG AVAIL. ****
 # Update: 12/23/2020 - MAINTENANCE + NEW: Ontario Legislature Assembly (EN/FR); add'l EWTN streams added to "Canadian TV" group.
 # Update: 12/23/2020 - MAINTENANCE: Le Canal Nouvelles removed (temp free stream ended); updated Tele-Quebec stream ("Canadian TV").
