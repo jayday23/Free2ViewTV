@@ -41,6 +41,15 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 01/29/2021 - NEW: Five 'AMC Networks' linear channels now avail. on Samsung, Vizio, IMDb TV, Sling TV Free, and Pluto TV...
+# Update: 01/29/2021 - NEW CHANNELS from AMC Networks: AMC Presents, Rush by AMC, IFC Film Picks, Slightly Off, Absolute Reality.
+# Update: 01/29/2021 - INFO: There is no EPG for AMC Networks; for program listings, go here: https://www.amazon.com/gp/video/epg
+# Update: 01/28/2021 - NEW CHANNELS: "USA FREE OTA TV25" channels are back, updated sources, added to "EPG | USA FREE TV | 66101".
+# Update: 01/28/2021 - EPG SOURCE for "EPG | USA FREE TV | 66101" and TV25 streams:   https://od.lk/s/MF8yMjU5MjEyMDZf/KCK_66101.xml
+# Update: 01/24/2021 - CATEGORY MAINTENANCE: renamed to "Christmas 365" with active holiday media, moved further down the list. 
+# Update: 01/23/2021 - ALTERNATE OTA CATEGORY ADDED WITH EPG: "EPG | USA FREE TV | OTA", some OTA channels not in other groups.
+# Update: 01/23/2021 - NEW EPG: New EPG source for  "EPG | USA FREE TV | OTA": https://od.lk/s/MF8yMjc0ODI1MjZf/NYC_10001_OTA.xml
+# Update: 01/22/2021 - NEW EPG: New EPG source for "CBC TV Canada (Geo)" category: https://od.lk/s/MF8yMjc0MDA2NThf/CAN_EPG1.xml
 # Update: 01/16/2021 - NEW CHANNEL: Added Rouge TV (18+ during overnight hours) in "Francophone TV".   https://www.rougetv.ch
 # Update: 01/16/2021 - NEW CHANNEL: Added Snowy Mountains TV, "Sports & Recreation".    https://www.snowymountains.tv
 # Update: 01/16/2021 - MAINTENANCE + NEW: OnlyMotors TV live stream removed (dead); COMING SOON, more motorsports related channels!

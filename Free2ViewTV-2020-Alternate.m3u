@@ -777,34 +777,40 @@ http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQyNTQ4Njhf/OntParl_450x450.png" group-title="Canadian TV",Ontario OLA Network | FR
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CBRTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Calgary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",** EPG SOURCE URL INFO **
+https://od.lk/s/MF8yMjc0MDEyNTVf/EPG_Canada.mp4
+#EXTINF:-1 tvg-id="I255.75971.zap2it.com" tvg-name="255 CBNEWSH" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC News Network (Geo) *
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
+#EXTINF:-1 tvg-id="I197.71729.zap2it.com" tvg-name="197 CBRTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
-#EXTINF:-1 tvg-id="CBCTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Charlottetown
+#EXTINF:-1 tvg-id="I109.72884.zap2it.com" tvg-name="109 CBCTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Charlottetown
 https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
-#EXTINF:-1 tvg-id="CBXTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Edmonton
+#EXTINF:-1 tvg-id="I192.71733.zap2it.com" tvg-name="192 CBXTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Edmonton
 https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
-#EXTINF:-1 tvg-id="CBATca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Fredericton
+#EXTINF:-1 tvg-id="I106.72767.zap2it.com" tvg-name="106 CBATDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Fredericton
 https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
-#EXTINF:-1 tvg-id="CBHTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Halifax
+#EXTINF:-1 tvg-id="I102.72723.zap2it.com" tvg-name="102 CBHTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Halifax
 https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
-#EXTINF:-1 tvg-id="CBMTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Montreal
+#EXTINF:-1 tvg-id="I122.53502.zap2it.com" tvg-name="122 CBMTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Montreal
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
-#EXTINF:-1 tvg-id="CBOTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Ottawa
+#EXTINF:-1 tvg-id="I144.58494.zap2it.com" tvg-name="144 CBOTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Ottawa
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
-#EXTINF:-1 tvg-id="CBKTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Regina
+#EXTINF:-1 tvg-id="I172.72795.zap2it.com" tvg-name="172 CBKTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Regina
 https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
-#EXTINF:-1 tvg-id="CBNTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC St Johns
+#EXTINF:-1 tvg-id="I111.72797.zap2it.com" tvg-name="111 CBNTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC St Johns
 https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
-#EXTINF:-1 tvg-id="CBLTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Toronto
+#EXTINF:-1 tvg-id="I132.46245.zap2it.com" tvg-name="132 CBLTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Toronto
 https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
-#EXTINF:-1 tvg-id="CBUTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Vancouver
+#EXTINF:-1 tvg-id="I213.51981.zap2it.com" tvg-name="213 CBUTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Vancouver
 https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
-#EXTINF:-1 tvg-id="CBETca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Windsor
+#EXTINF:-1 tvg-id="I136.72772.zap2it.com" tvg-name="136 CBETDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Windsor
 https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
-#EXTINF:-1 tvg-id="CBWTca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Winnipeg
+#EXTINF:-1 tvg-id="I162.72940.zap2it.com" tvg-name="162 CBWTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Winnipeg
 https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
-#EXTINF:-1 tvg-id="CFYKca" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Yellowknife
+#EXTINF:-1 tvg-id="I225.72816.zap2it.com" tvg-name="225 CFYKDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Yellowknife
 https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Sports (Event)
+https://cbcsportshd3-lh.akamaihd.net/i/cbcsportsworld2_1@537302/index_2500_av-p.m3u8
 
 #EXTINF:-1 tvg-id="ICIacadie" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Acadie
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
@@ -1133,10 +1139,38 @@ https://kcwcdt.lls.cdn.pbs.org/kcwcdt/84b31db3-3cd6-442f-b87b-1ec11d54259d/prima
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5MzA4OTBf/F2V-TV_Logo.png" group-title="EPG | USA FREE TV | 66101",** NEW EPG 2021 ** Watch me!
 https://od.lk/s/MF8yMjU5MjYxODNf/EPGUpdate2021_F2V-EPG.mp4?1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5MzA4OTBf/F2V-TV_Logo.png" group-title="EPG | USA FREE TV | 66101",** EPG info may differ from webstream **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5MzA4OTBf/F2V-TV_Logo.png" group-title="EPG | USA FREE TV | 66101",** TV25 Channels are BACK!! **
 https://od.lk/s/MF8yMjU5MjYxODNf/EPGUpdate2021_F2V-EPG.mp4?2
+#EXTINF:-1 tvg-id="I25.1.97116.zap2it.com" tvg-name="25.1" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",EPG | TV25.1 Buzzr
+https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
+#EXTINF:-1 tvg-id="I25.2.97117.zap2it.com" tvg-name="25.2" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",EPG | TV25.2 NewsNet
+https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",EPG | TV25.3 Ace TV
+https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
+#EXTINF:-1 tvg-id="I25.4.97118.zap2it.com" tvg-name="25.4" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",EPG | TV25.4 Action
+https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",EPG | TV25.5 America's Voice
+https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
+#EXTINF:-1 tvg-id="I25.6.97120.zap2it.com" tvg-name="25.6" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",EPG | TV25.6 WeatherNation
+https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+#EXTINF:-1 tvg-id="I25.7.97124.zap2it.com" tvg-name="25.7" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",EPG | TV25.7 Rev'n
+https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
+#EXTINF:-1 tvg-id="I25.8.97125.zap2it.com" tvg-name="25.8" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",EPG | TV25.8 Untamed Sports TV
+https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
+#EXTINF:-1 tvg-id="I25.9.97126.zap2it.com" tvg-name="25.9" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",EPG | TV25.9 Retro TV
+https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
+#EXTINF:-1 tvg-id="I25.10.97127.zap2it.com" tvg-name="25.10" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",EPG | TV25.10 Shop LC
+https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
+#EXTINF:-1 tvg-id="I25.11.106745.zap2it.com" tvg-name="25.11" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",EPG | TV25.11 This TV
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+#EXTINF:-1 tvg-id="I25.12.106746.zap2it.com" tvg-name="25.12" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",EPG | TV25.12 Jewelry TV
+https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5MzA4OTBf/F2V-TV_Logo.png" group-title="EPG | USA FREE TV | 66101",** Bonus Channels & Listings **
+https://od.lk/s/MF8yMjU5MjYxODNf/EPGUpdate2021_F2V-EPG.mp4?3
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5MzA4OTBf/F2V-TV_Logo.png" group-title="EPG | USA FREE TV | 66101",** EPG info may differ from webstream **
+https://od.lk/s/MF8yMjU5MjYxODNf/EPGUpdate2021_F2V-EPG.mp4?4
 #EXTINF:-1 tvg-id="I25.1.97116.zap2it.com" tvg-name="25.1" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjM5NTQxNTZf/BUZZR.png",EPG | Buzzr | Webstream
-https://buzzrota-web.amagi.tv/playlist.m3u8?66101
+https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="I50.3.43959.zap2it.com" tvg-name="50.3" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjM0MjczODBf/IonPlus_420x420.png",EPG | ION Plus
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="I62.3.82932.zap2it.com" tvg-name="62.3" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NjZf/Dabl_400x400.png",EPG | Dabl (Geo-USA)
@@ -1157,6 +1191,33 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
 #EXTINF:-1 tvg-id="I25.12.106746.zap2it.com" tvg-name="25.12" tvg-type="live" group-title="EPG | USA FREE TV | 66101" tvg-logo="https://od.lk/s/MF8yMjY2MjM2MTlf/JewelryTV_1024x1024.png",EPG | Jewelry TV
 https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5MzA4OTBf/F2V-TV_Logo.png" group-title="EPG | USA FREE TV | OTA",** EPG Updated 01/23/21 ** Watch me! ** 
+https://od.lk/s/MF8yMjc0ODk3NzRf/EPG_USA-OTA.mp4?1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5MzA4OTBf/F2V-TV_Logo.png" group-title="EPG | USA FREE TV | OTA",** EPG info may differ from webstream **
+https://od.lk/s/MF8yMjc0ODk3NzRf/EPG_USA-OTA.mp4?2
+#EXTINF:-1 tvg-id="I2.3.112501.zap2it.com" tvg-name="2.3 WCBSDT3" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NjZf/Dabl_400x400.png",EPG | Dabl (Geo-USA)
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
+#EXTINF:-1 tvg-id="I4.2.44936.zap2it.com" tvg-name="4.2 WNBCDT2" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjU5MjY0NTJf/CoziTV_WZTS_218x218.png",EPG | Cozi TV (National EPG)
+https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
+#EXTINF:-1 tvg-id="I9.3.75009.zap2it.com" tvg-name="9.3 WWORDT3" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjM5NTQxNTZf/BUZZR.png",EPG | Buzzr | Webstream
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="I10.3.62804.zap2it.com" tvg-name="10.3 WCAUDT3" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjc0ODkyNDhf/NBCLX_584x584.png",EPG | NBCLX | Webstream
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
+#EXTINF:-1 tvg-id="I17.4.70281.zap2it.com" tvg-chno="17.4 WPHLDT4" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTZf/CometTV.png",EPG | Comet TV
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1 tvg-id="I28.1.114802.zap2it.com" tvg-name="28.1 WNYJLD" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjY2MjM2MTlf/JewelryTV_1024x1024.png",EPG | Jewelry TV
+https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:-1 tvg-id="I31.3.55285.zap2it.com" tvg-name="31.3 WPXNDT3" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjM0MjczODBf/IonPlus_420x420.png",EPG | ION Plus
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="I33.6.115891.zap2it.com" tvg-name="33.6 WJLPDT6" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjY2MjQ5NDJf/CourtTV_450x450.png",EPG | Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
+#EXTINF:-1 tvg-id="I33.8.112951.zap2it.com" tvg-name="33.8 WJLPDT8" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjY2MjI1OTlf/NewsNet.png",EPG | NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+#EXTINF:-1 tvg-id="I45.2.99361.zap2it.com" tvg-chno="45.2 WRGBDK2" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTVf/ChargeTV.png",EPG | Charge!
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-id="I48.2.55565.zap2it.com" tvg-name="48.2 WRNNDT2" tvg-type="live" group-title="EPG | USA FREE TV | OTA" tvg-logo="https://od.lk/s/MF8yMjY2MjYwMTlf/Circle_332x332.png",EPG | Circle | Webstream
+https://circle-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Exclamation_225x225.png?raw=true" group-title="EPG | Free2View TV",** NEW EPG 2021 ** Watch me!
 https://od.lk/s/MF8yMjQwMDg2MjBf/EPGUpdate2021_v1.mp4
@@ -1185,82 +1246,16 @@ https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="externallinearfeed-06-26-2020-193305392-06-26-2020" tvg-chno="226" tvg-logo="https://od.lk/s/MF8yMjQwMDkyNjVf/MidnightPulp_200x200.png" group-title="EPG | Free2View TV",EPG | Midnight Pulp
 https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.wurl_channel=263&ads.wurl_name=MidnightPulp&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c4427&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 
-#EXTINF:-1 tvg-id="5bb1b9f0adfc955391f8b7a2" tvg-chno="250" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="TEMP | Merry Christmas",LIVE Pluto TV Christmas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1b9f0adfc955391f8b7a2/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=f70a2f5e-1629-4662-9e13-1cff94c4da18&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="5d9ccd538661290009ecbdb7" tvg-chno="251" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="TEMP | Merry Christmas",LIVE Pluto TV Mistletoe
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d9ccd538661290009ecbdb7/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=9e22d2bf-6681-495b-8c39-100ab5a4a95e&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="5bd8273953ed2c6334ea10f8" tvg-chno="30" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="TEMP | Merry Christmas",LIVE Pluto UK | Christmas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bd8273953ed2c6334ea10f8/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=cedecdc5-f38a-4cba-a5a0-c20728f74ec3&deviceLat=51.4964&deviceLon=-0.1224&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.66&includeExtendedEvents=false&marketingRegion=GB&sid=aa8b1ecc-30b7-11eb-b13a-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="5dc039c65b56d0000945af0e" tvg-chno="35" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="TEMP | Merry Christmas",LIVE Pluto UK | Mistletoe
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc039c65b56d0000945af0e/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=cedecdc5-f38a-4cba-a5a0-c20728f74ec3&deviceLat=51.4964&deviceLon=-0.1224&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.66&includeExtendedEvents=false&marketingRegion=GB&sid=7788d144-230a-4766-a0f7-1bd5fcd0b221&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="5f7f8698ec435a000785810b" tvg-chno="253" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="TEMP | Merry Christmas",LIVE Home for the Holidays
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7f8698ec435a000785810b/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=04e1ed44-aed9-453a-b170-b2d651443447&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="58348b5cc4d11ba530b30f51" tvg-chno="255" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="TEMP | Merry Christmas",LIVE Pluto TV Holiday Lights
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58348b5cc4d11ba530b30f51/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=256e99ae-4c94-4a55-9f65-8ee1acdb9461&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="5bf48085851dd5632e2f7b4d" tvg-chno="254" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="TEMP | Merry Christmas",LIVE Pluto TV Fireplace
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bf48085851dd5632e2f7b4d/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=dce6e1d5-31f8-41e7-b649-43b664787b87&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayFireplace_800x800.png?raw=true" group-title="TEMP | Merry Christmas",LIVE Naturescape Fireplaces
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/naturescape/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/iHeartChristmasTV_203x203.png?raw=true" group-title="TEMP | Merry Christmas",iHeart Radio Christmas TV
-https://d35vozlor946gj.cloudfront.net/out/v1/bc83fb104a774588b1e199fd0fcf8b33/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/iHRXmasClassics_203x203.png?raw=true" group-title="TEMP | Merry Christmas",iHR Christmas Classics TV
-https://d39a4k19q5wb1a.cloudfront.net/out/v1/28cada5616c2443398c7de03c921e739/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="TEMP | Merry Christmas",VOD TV Fireplace Holiday Ed.
-https://cloudfront.tubi.video/efb1aca3-3525-468c-8e4b-8daa32e61c9b/g1zp7d0j/stream.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="TEMP | Merry Christmas",VOD Anytime Fireplace
-https://cloudfront.tubi.video/5070a3d2-0be3-4f38-a440-7385d3821aef/u1xvps5h/stream.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="TEMP | Merry Christmas",VOD FAMILY Jack Frost
-https://cloudfront.tubi.video/bd17f7cd-a624-4747-91d0-3d8b8149c265/ftxmihnp/stream.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="TEMP | Merry Christmas",VOD FAMILY The Snowman
-https://cloudfront.tubi.video/02b58b24-30a8-4344-a7c6-993b69bb4e8b/rpbclk3m/stream.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="TEMP | Merry Christmas",Santa and the Three Bears
-https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="TEMP | Merry Christmas",An American Christmas Carol
-https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQzMjIyNzhf/Generic-VOD.png" group-title="TEMP | Merry Christmas",** F2V-TV Exclusive VOD **
-https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?Xmas
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQzMjIyNzhf/Generic-VOD.png" group-title="TEMP | Merry Christmas",It's A Wonderful Life (1946)
-https://od.lk/s/MF8yMjQyMzQyNDFf/Its-A-Wonderful-Life_1946_2h10m_4x3-540p.mp4
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQzMjIyNzhf/Generic-VOD.png" group-title="TEMP | Merry Christmas",A&C Christmas Show (Color)
-https://od.lk/s/MF8yMjQxNDQyODRf/Colgate-Comedy-Hour_12-14-52_Abbott-Costello_Christmas%20Show_59m28s_Color_x264.mp4
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQzMjIyNzhf/Generic-VOD.png" group-title="TEMP | Merry Christmas",Movie: Scrooge (1935) (B&W)
-https://od.lk/s/MF8yMjQxMTA5Njhf/Scrooge_1935_1h17m_x264_480p.mp4
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",** Christmas Radio **
-https://od.lk/s/MF8yMjI2NDIxMDhf/Free2ViewTV_ChristmasRadio.mp4
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",iHeart The Holidays
-https://17023.live.streamtheworld.com/ST08_ADP/HLS/18246/0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",iHR Noël c'est Rouge
-https://17573.live.streamtheworld.com/ST06_ADP/HLS/17728/0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",iHeart Radio Christmas 
-http://stream.revma.ihrhls.com/zc4596/hls.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",iHeart Radio North Pole Radio 
-http://stream.revma.ihrhls.com/zc6734/hls.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",iHeart Radio Christmas R&B
-https://stream.revma.ihrhls.com/zc6136/hls.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",iHR Club Jam Christmas
-https://stream.revma.ihrhls.com/zc7252/hls.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",iHeart Radio Christmas Rock 
-http://stream.revma.ihrhls.com/zc6410/hls.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",iHR Christmas Classics 
-http://stream.revma.ihrhls.com/zc6137/hls.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",iHR Christmas Country 
-http://stream.revma.ihrhls.com/zc4601/hls.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",iHeart Radio Christmas Jazz
-https://stream.revma.ihrhls.com/zc7251/hls.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",iHR Sacred Christmas
-https://stream.revma.ihrhls.com/zc7444/hls.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",103.5 QMFM Vancouver
-https://19793.live.streamtheworld.com/CHQMFMAAC.aac
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",96.3 CKRA Edmonton
-https://newcap.leanstream.co/CKRAFM
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",The Christmas Station Toronto
-https://fred.torontocast.com:2865/stream
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",Y94 Syracuse | Christmas
-http://stream.revma.ihrhls.com/zc1549/hls.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",95.7 BIG FM Milwaukee
-http://stream.revma.ihrhls.com/zc2689/hls.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="TEMP | Merry Christmas",96.7 CHYM Christmas Kitchener
-https://rogers-hls.leanstream.co/rogers/kit967.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" group-title="AMC Networks",AMC | AMC Presents
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" group-title="AMC Networks",AMC | Rush by AMC
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" group-title="AMC Networks",AMC | IFC Film Picks
+https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" group-title="AMC Networks",AMC | Slightly Off by IFC
+https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" group-title="AMC Networks",AMC | Absolute Reality by We TV
+https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",** Entertainment **
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Entertainment
@@ -2153,6 +2148,53 @@ https://43eed3df38d04ed7a3be7cc4ee510b43.mediatailor.us-east-1.amazonaws.com/v1/
 https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",BeeTV | Education
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5f10f6c04a9f7c7c27570dd3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5bb1b9f0adfc955391f8b7a2" tvg-chno="250" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="Christmas 365",LIVE Pluto TV Christmas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1b9f0adfc955391f8b7a2/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=f70a2f5e-1629-4662-9e13-1cff94c4da18&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="5d9ccd538661290009ecbdb7" tvg-chno="251" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="Christmas 365",LIVE Pluto TV Mistletoe
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d9ccd538661290009ecbdb7/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=9e22d2bf-6681-495b-8c39-100ab5a4a95e&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="5f7f8698ec435a000785810b" tvg-chno="253" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_Xmas_540x540.png?raw=true" group-title="Christmas 365",LIVE Home for the Holidays
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7f8698ec435a000785810b/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=04e1ed44-aed9-453a-b170-b2d651443447&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Christmas 365",VOD TV Fireplace Holiday Ed.
+https://cloudfront.tubi.video/efb1aca3-3525-468c-8e4b-8daa32e61c9b/g1zp7d0j/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Christmas 365",VOD Anytime Fireplace
+https://cloudfront.tubi.video/5070a3d2-0be3-4f38-a440-7385d3821aef/u1xvps5h/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Christmas 365",VOD FAMILY Jack Frost
+https://cloudfront.tubi.video/bd17f7cd-a624-4747-91d0-3d8b8149c265/ftxmihnp/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Christmas 365",VOD FAMILY The Snowman
+https://cloudfront.tubi.video/02b58b24-30a8-4344-a7c6-993b69bb4e8b/rpbclk3m/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Christmas 365",Santa and the Three Bears
+https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Christmas 365",An American Christmas Carol
+https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQzMjIyNzhf/Generic-VOD.png" group-title="Christmas 365",** F2V-TV Exclusive VOD **
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4?Xmas
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQzMjIyNzhf/Generic-VOD.png" group-title="Christmas 365",It's A Wonderful Life (1946)
+https://od.lk/s/MF8yMjQyMzQyNDFf/Its-A-Wonderful-Life_1946_2h10m_4x3-540p.mp4
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQzMjIyNzhf/Generic-VOD.png" group-title="Christmas 365",A&C Christmas Show (Color)
+https://od.lk/s/MF8yMjQxNDQyODRf/Colgate-Comedy-Hour_12-14-52_Abbott-Costello_Christmas%20Show_59m28s_Color_x264.mp4
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQzMjIyNzhf/Generic-VOD.png" group-title="Christmas 365",Movie: Scrooge (1935) (B&W)
+https://od.lk/s/MF8yMjQxMTA5Njhf/Scrooge_1935_1h17m_x264_480p.mp4
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="Christmas 365",** Christmas Radio **
+https://od.lk/s/MF8yMjI2NDIxMDhf/Free2ViewTV_ChristmasRadio.mp4
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="Christmas 365",iHeart Radio Christmas 
+http://stream.revma.ihrhls.com/zc4596/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="Christmas 365",iHeart Radio North Pole Radio 
+http://stream.revma.ihrhls.com/zc6734/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="Christmas 365",iHeart Radio Christmas R&B
+https://stream.revma.ihrhls.com/zc6136/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="Christmas 365",iHR Club Jam Christmas
+https://stream.revma.ihrhls.com/zc7252/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="Christmas 365",iHeart Radio Christmas Rock 
+http://stream.revma.ihrhls.com/zc6410/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="Christmas 365",iHR Christmas Classics 
+http://stream.revma.ihrhls.com/zc6137/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="Christmas 365",iHR Christmas Country 
+http://stream.revma.ihrhls.com/zc4601/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="Christmas 365",iHeart Radio Christmas Jazz
+https://stream.revma.ihrhls.com/zc7251/hls.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ChristmasRadio2_300x300.png?raw=true" group-title="Christmas 365",iHR Sacred Christmas
+https://stream.revma.ihrhls.com/zc7444/hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RetroMusicTV.png" group-title="International TV",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
