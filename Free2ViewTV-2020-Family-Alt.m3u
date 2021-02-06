@@ -38,10 +38,6 @@ https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/man
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkillsThrills_130x130.png?raw=true" group-title="Entertainment",Skills + Thrills | Ch.2 | +1h
 https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Pop.png?raw=true" group-title="Entertainment",POP *
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM0MjczNjJf/AMCPresents_358x358.png" group-title="Entertainment",AMC Presents *
-https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" group-title="Entertainment",nosey | Jerry Springer
 https://stitcheraws.unreel.me/wse-node04.powr.com/powr_480pt/ngrp:5eb1e7f848f1ff2e1d2555a2_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" group-title="Entertainment",nosey | Maury
@@ -759,8 +755,6 @@ http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",** EPG SOURCE URL INFO **
 https://od.lk/s/MF8yMjc0MDEyNTVf/EPG_Canada.mp4
-#EXTINF:-1 tvg-id="I255.75971.zap2it.com" tvg-name="255 CBNEWSH" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC News Network (Geo) *
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
 #EXTINF:-1 tvg-id="I197.71729.zap2it.com" tvg-name="197 CBRTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
 #EXTINF:-1 tvg-id="I109.72884.zap2it.com" tvg-name="109 CBCTDT" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Charlottetown
