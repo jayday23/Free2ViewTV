@@ -41,6 +41,17 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: **** COMING SOON: Still have plans add new group "TV SHOPPING"; new Radio streams; and fill out Local NOW channel group.
+# Update: **** COMING SOON: Looking at adding channels from Brazilian streaming service https://yowi.tv -- many in English!
+# Update: 02/11/2021 - NEW CHANNEL: Journy linear channel added to "Entertainment" - https://www.ovationtv.com/watch/journy/
+# Update: 02/11/2021 - NEW CHANNEL: Hallmark Movies & More, now available on Xumo and The Roku Channel, added to "Movies Plus".
+# Update: 02/12/2021 - NEW CATEGORY + CHANNELS: Live linear streams from "Local Now", category started, more channels coming soon.
+# Update: 02/10/2021 - CATEGORY MAINTENANCE + NEW CHANNEL: Updated streams in "Movies Plus"; added FilmStream channel.
+# Update: 02/09/2021 - NEW CHANNEL: Fubo Sports Network added to "Sports & Recreation" - https://www.fubosportsnetwork.com
+# Update: 02/09/2021 - CATEGORY MAINTENANCE: Completely updated streams in "Sports & Recreation" category.
+# Update: 02/08/2021 - MAINTENANCE: Removed Olympics Channel (tokened/protected); CBC Olympics Ch. moved to "Sports & Recreation".
+# Update: 02/08/2021 - PLAYLIST MAINTENANCE: Moved Tennis channels, working Harley TV streams to "Sports & Recreation" category.
+# Update: 02/07/2021 - NEW CHANNEL ADDED: MAVTV Select, available on multiple streaming platforms including Roku, STIRR, Plex, more.
 # Update: 01/29/2021 - NEW: Five 'AMC Networks' linear channels now avail. on Samsung, Vizio, IMDb TV, Sling TV Free, and Pluto TV...
 # Update: 01/29/2021 - NEW CHANNELS from AMC Networks: AMC Presents, Rush by AMC, IFC Film Picks, Slightly Off, Absolute Reality.
 # Update: 01/29/2021 - INFO: There is no EPG for AMC Networks; for program listings, go here: https://www.amazon.com/gp/video/epg
