@@ -41,55 +41,6 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
-# Update: 11/03/2020 - NEW CHANNEL ADDED: CNN | Event Stream added (this is NOT the CNN Network feed, only free public events).
-# Update: 11/04/2020 - NEW CHANNELS: Started "The Roku Channel" with channels in each category; more to be added in each update.
-# Update: 11/10/2020 - PLAYLIST MAINTENANCE: Cleaned up "News & Weather" group; updated WeatherNation (also in TV25 group).
-# Update: 11/10/2020 - PLAYLIST MAINTENANCE: Updated Cheddar live stream in "News & Weather" and "Financial News & Info" groups.
-# Update: 11/11/2020 - TEMPORARY CHANNEL ADDED: Le Canal Nouvelles temporarily unscrambled, added to "Canadian TV" category.
-# Update: 11/12/2020 - MAINTENANCE + NEW: Updated several stream URLs in "Financial News & Info", added Business Rockstars.
-# Update: 11/16/2020 - CATEGORY MAINTENANCE: Updated several streams (added CNBC Radio) in "NBC News Networks" group.
-# Update: 11/16/2020 - MAINTENANCE + NEW: Updated NBC News Now, added Euronews to "News & Weather" category.
-# Update: 11/17/2020 - NEW CHANNELS ADDED: Added NBC News Now; Newsy, in "The Roku Channel" group.
-# Update: 11/17/2020 - NEW CHANNELS ADDED: Added "Harley Davidson TV" group and 4 new channels. https://tv.harley-davidson.com/
-# Update: 11/21/2020 - NEW CHANNELS ADDED: Over 30+ new channels from The Roku Channel US have been added.
-# Update: 11/22/2020 - NEW SEASONAL CATEGORY ADDED: Temporarily added "TEMP | Merry Christmas" with live TV, VOD, and Radio streams.
-# Update: 11/23/2020 - NEW CHANNEL ADDED: Added Dark Matter TV, avilable on major free digital streaming services, in "Movies Plus".
-# Update: 11/24/2020 - MAINTENANCE + NEW: Updated streams / added new channels in "FilmRise Digital Networks" category.
-# Update: 11/25/2020 - MAINTENANCE + NEW: Updated channels and new VOD / radio streams in "TEMP | Merry Christmas" category.
-# Update: 11/26/2020 - NEW CHANNELS ADDED: Added new Holiday channels from Pluto TV UK in "TEMP | Merry Christmas" category.
-# Update: 11/27/2020 - NEW CHANNELS ADDED: Added Mr. Pickles, Squidbillies, and Tim & Eric Awesome Show streams in "[adult swim]".
-# Update: 11/30/2020 - NEW: Changed "PBS Member Stations (Geo-USA)" to "EPG | PBS (Geo-USA)" with new EPG source and more streams.
-# Update: 11/30/2020 - PLAYLIST MAINTENANCE: Cleaned up "PBS | NPR" category; THIRTEEN moved out as it is in "EPG | PBS (Geo-USA)".
-# Update: 11/30/2020 - NEW CHANNEL: World Channel added to "PBS | NPR" category - https://video.aptv.org/show/world-channel/
-# Update: 12/01/2020 - NEW CHANNEL: Added 'Home For The Holidays' channel from  Pluto TV in "TEMP | Merry Christmas" category.
-# Update: 12/01/2020 - NEW CHANNELS: iHeart Radio Christmas TV streams (music w/ album covers on screen) in "TEMP | Merry Christmas".
-# Update: 12/01/2020 - NEW CHANNEL: "TEMP | Merry Christmas": Stingray Naturescape running Fireplaces 24/7 over the Holidays.
-# Update: 12/02/2020 - NEW CHANNELS ADDED: Several new channels from The Roku Channel US have been added. 
-# Update: 12/02/2020 - MAINTENANCE + NEW: Updated streams / added Wipeout Xtra in "Gameshows & Competitions" category.
-# Update: 12/03/2020 - MAINTENANCE: Relocated "Nostalgia Flicks" after "Movies Plus" to fit better into 'movies' section of playlist. 
-# Update: 12/03/2020 - MAINTENANCE + NEW: Updated streams / added Kartoon Fun Time in "Nostalgia Flicks" category.
-# Update: 12/03/2020 - NEW SOURCES: New official sources for Spydar TV and Kartoon Fun Time, courtesy of https://morcaman.com
-# Update: 12/04/2020 - NEW CHANNELS ADDED: by request from user, added additional channels in "International | Italy" category.
-# Update: 12/06/2020 - CATEGORY MAINTENANCE: The "TEMP | CBC News (Geo-CA)" free streams have ended, category removed.
-# Update: 12/07/2020 - MAINTENANCE + NEW: Updated streams in "Entertainment" category, removed obsolete or duplicate streams.
-# Update: 12/08/2020 - NEW CHANNELS ADDED: Updated streams and added additional channels to "Redbox Free Live TV".
-# Update: 12/09/2020 - CATEGORY MAINTENANCE: Updated streams in "Harley Davidson TV". https://tv.harley-davidson.com/
-# Update: 12/10/2020 - CHANNEL REMOVED: Miracle Channel stream is now protected, removed from Canadian TV / Faith categories. 
-# Update: 12/11/2020 - MAINTENANCE + NEW: Updated streams and added new WOTR Radio Network streams in "Old Time Radio" category.
-# Update: 12/12/2020 - NEW CHANNEL: Added new webstream for NASA TV (all streams in NASA TV category best viewed in NATIVE mode).
-# Update: 12/13/2020 - MAINTENANCE + NEW: Updated streams in "Movies Plus" category; added new MovieSphere channel.
-# Update: 12/14/2020 - PLAYLIST MAINTENANCE: FilmOn channels removed (dead links); nosey streams updated, in "Entertainment" group.
-# Update: 12/15/2020 - MAINTENANCE + NEW: Updated entire category and added several new streams in "WatchYour.TV | TVS" category.
-# Update: 12/16/2020 - MAINTENANCE + NEW: Updated sources for several channels, added BNC 24/7 in "News & Weather" category.
-# Update: 12/16/2020 - MAINTENANCE + NEW: Updated sources for NBC News Now, added add'l MSNBC Audio source in "NBC News Networks".
-# Update: **** PLEASE NOTE: DUE TO TECHNICAL ISSUES BEYOND OUR CONTROL, EPG SERVED BY F2V-TV IS DISCONTINUED; ALTERNATE EPG AVAIL. ****
-# Update: 12/20/2020 - CATEGORY MAINTENANCE: EPG removed from "USA FREE OTA TV25" (no longer working) and category relocated. 
-# Update: 12/21/2020 - MAINTENANCE + NEW: Old EPG no longer avail; new EPG source and added new channels in "EPG | Free2View TV".
-# Update: 12/22/2020 - NEW VOD ADDED: Added new VOD Christmas / Holiday movies in the "TEMP | Merry Christmas" category.
-# Update: 12/23/2020 - MAINTENANCE + NEW: Ontario Legislature Assembly (EN/FR); add'l EWTN streams added to "Canadian TV" group.
-# Update: 12/23/2020 - MAINTENANCE: Le Canal Nouvelles removed (temp free stream ended); updated Tele-Quebec stream ("Canadian TV").
-# Update: 12/23/2020 - NEW CHANNEL ADDED: Salt+Light TV webstream added to "Canadian TV" - https://slmedia.org/live/
-# Update: **** COMING SOON: Alternate streams for The Roku Channel and Redbox live streams. More EPG sources for other categories.
 # Update: 12/26/2020 - NEW CHANNELS / CATEGORY: Added "News on Tubi", courtesy of https://www.apsattv.com
 # Update: 12/28/2020 - CHANNEL MAINTENANCE: Added additional stream for Game Show Central in "Gameshows & Competitions".
 # Update: 12/28/2020 - NEW CHANNELS ADDED: Rakuten Action Movies from the UK, and Crackle, both added to "Movies Plus" group.
@@ -117,6 +68,20 @@
 # Update: 01/29/2021 - INFO: There is no EPG for AMC Networks; for program listings, go here: https://www.amazon.com/gp/video/epg
 # Update: **** COMING SOON: Plans to add new group "TV SHOPPING"; new Radio streams; update to the full Sports & Recreation category.
 # Update: **** COMING SOON: Alternate streams for The Roku Channel and Redbox live streams. More EPG sources for other categories.
+# Update: 01/31/2021 - CATEGORY MAINTENANCE: Added additional sports event stream, duplicated Olympics, in "CBC TV Canada (Geo)".
+# Update: 02/06/2021 - CATEGORY MAINTENANCE: Full revamp of Sports & Recreation group, relocated/updated streams.
+# Update: 02/06/2021 - CHANNEL MAINTENANCE: Relocated Tennis, CBC Olympics, working Harley streams to Sports & Recreation group.
+# Update: 02/07/2021 - NEW CHANNEL ADDED: MAVTV Select, available on multiple streaming platforms including Roku, STIRR, Plex, more.
+# Update: 02/08/2021 - MAINTENANCE: Removed Olympics Channel (tokened/protected); CBC Olympics Ch. moved to "Sports & Recreation".
+# Update: 02/08/2021 - PLAYLIST MAINTENANCE: Moved Tennis channels, working Harley TV streams to "Sports & Recreation" category.
+# Update: 02/09/2021 - NEW CHANNEL: Fubo Sports Network added to "Sports & Recreation" - https://www.fubosportsnetwork.com
+# Update: 02/09/2021 - CATEGORY MAINTENANCE: Completely updated streams in "Sports & Recreation" category.
+# Update: 02/10/2021 - CATEGORY MAINTENANCE + NEW CHANNEL: Updated streams in "Movies Plus"; added FilmStream channel.
+# Update: 02/11/2021 - NEW CHANNEL: Hallmark Movies & More, now available on Xumo and The Roku Channel, added to "Movies Plus".
+# Update: 02/11/2021 - NEW CHANNEL: Journy linear channel added to "Entertainment" - https://www.ovationtv.com/watch/journy/
+# Update: 02/12/2021 - NEW CATEGORY + CHANNELS: Live linear streams from "Local Now", category started, more channels coming soon.
+# Update: **** COMING SOON: Still have plans add new group "TV SHOPPING"; new Radio streams; and fill out Local NOW channel group.
+# Update: **** COMING SOON: Looking at adding channels from Brazilian streaming service https://yowi.tv -- many in English!
 #
 # ************************************************************************************************************************************* 
 
@@ -134,10 +99,12 @@ https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzMzY5NjNf/CWSeedLive_225x225.png" group-title="Entertainment",CW Seed Live (Geo-USA)
 https://cwseedlive.cwtv.com/ingest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU3NjQ3NTlf/LoveNature_600x600.png" group-title="Entertainment",Love Nature | HD
-https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjg5MzMxNjNf/Journy_225x225.png" group-title="Entertainment",Journy | HD
+https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png" group-title="Entertainment",Xplore | HD
 https://xplore-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU3NjQ3NTlf/LoveNature_600x600.png" group-title="Entertainment",Love Nature | HD
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Circle_617x617.png?raw=true" group-title="Entertainment",Circle | HD
 https://circle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ZLiving_512x512.png?raw=true" group-title="Entertainment",Z Living
@@ -171,15 +138,25 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e76d1474f9020c06
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" group-title="Entertainment",nosey | Judge Karen's Court
 https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06f9ec_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="Movies Plus",Crackle
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjg4NDg5NDNf/Hallmark-More_760x760.png" group-title="Movies Plus",Hallmark Movies & More | HD
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="Movies Plus",Crackle | HD
 https://crackle-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ElectricEnt_480x480.png" group-title="Movies Plus",Electric Now | HD
-https://1cfc2538e92a49b6aca3ccd424b3d474.mediatailor.us-west-2.amazonaws.com/v1/master/2aa80169619e70d2ce8badd72baf024f656bee6b/ElecNowVeset/prod/elec/linear_channel/ottera_cdn.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAsylum_350x350.png?raw=true" group-title="Movies Plus",The Asylum Movie Channel
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Movies Plus",Electric Now | Webstream
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&avod=1&coppa=0&is_lat=0&us_privacy=1---&did=b1cbb406470d5d90837f687adf702ece&app_bundle=com.electric.now&app_store_url=https%3A%2F%2Fwww.electricnow.tv%2Fdevices&app_domain=electricnow.tv&app_name=electricnow&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=electricnow&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&timestamp=1612734875&id=430&ip=107.174.17.108&override_expiration=1500&sign=skfdbc7xCT%2FrPBo7I%2Bn324ONywyaFp%2F0attYUsrv7l4%3D
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Movies Plus",Electric Now | Source 2
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM5NTU2NjFf/TheAsylum_NEW_939x939.png" group-title="Movies Plus",The Asylum | Channel 1
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8?p=roku
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheArchive_300x300.png?raw=true" group-title="Movies Plus",The Archive
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=74&live=1&app_bundle=&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=z1MCPUpbxYcHru-5hdyq&content_series=5eea605674085f0040ddc7a0&custom4=plex&gdpr=0&device_make=&device_model=Windows+hosted&coppa=0&us_privacy=1---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" group-title="Movies Plus",The Film Detective | HD
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM5NTU2NjFf/TheAsylum_NEW_939x939.png" group-title="Movies Plus",The Asylum | Channel 2
+https://asylum-stirr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjg0MDgzNDBf/TheArchive_300x300.png" group-title="Movies Plus",The Archive | Webstream
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=93&app_store_url=https%3A%2F%2Fwww.thearchive.tv
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjg0MDgzNDBf/TheArchive_300x300.png" group-title="Movies Plus",The Archive | Source 2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=74&app_name=plex
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM5NjA3MTRf/FilmDetective_400x400.png" group-title="Movies Plus",The Film Detective | Sc.1
+https://filmdetective-stirr.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM5NjA3MTRf/FilmDetective_400x400.png" group-title="Movies Plus",The Film Detective | Sc.2
 https://filmdetective-plex.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LoneStar_v2_250x250.png?raw=true" group-title="Movies Plus",Lone Star
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
@@ -195,6 +172,8 @@ https://dust-roku-xumo.amagi.tv/playlist.m3u8
 https://magellantv-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU4OTUzMzVf/RakutenTV_512x512.png" group-title="Movies Plus",Rakuten Action Movies
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjg4OTc5MDZf/FilmStream_224x224.png" group-title="Movies Plus",FilmStream | HD
+https://spi-filmstream-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RetroCrush_576x576.png?raw=true" group-title="Movies Plus",RetroCrush TV
 https://digitalmediarights-retrocrush-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MidnightPulp_200x200.png?raw=true" group-title="Movies Plus",Midnight Pulp TV
@@ -569,103 +548,66 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BusinessRockstars_1400x1400.png?raw=true" group-title="Financial News & Info",Business Rockstars
 https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" group-title="Sports & Recreation",CBS Sports HQ | HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" group-title="Sports & Recreation",CBS Sports HQ (Geo-USA)
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WPT_600x600.png?raw=true" group-title="Sports & Recreation",WPT | World Poker Tour
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PNIA_900x900.png?raw=true" group-title="Sports & Recreation",Poker Night In America
-https://pokernight-rushstreet-glewedtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WhistleTV_350x350.png?raw=true" group-title="Sports & Recreation",Whistle TV | Source 1
-https://whistle-1.distrotv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WhistleTV_350x350.png?raw=true" group-title="Sports & Recreation",Whistle TV | Source 2
-https://whistle-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Stadium.png" group-title="Sports & Recreation",Stadium | Live HD
-https://bcovlive-a.akamaihd.net/6b4f1a5aed2b46d6a139e3cb83f8dc42/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Sports & Recreation",Olympic Channel
-https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheT_246x246.png" group-title="Sports & Recreation",The T (Tennis)
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/f3d8696d886f4c3b9612132643061743/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheT_246x246.png" group-title="Sports & Recreation",The Tennis Channel | The T
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TennisChannelPlus_244x244.png?raw=true" group-title="Sports & Recreation",The Tennis Channel | Plus 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TennisChannelPlus_244x244.png?raw=true" group-title="Sports & Recreation",The Tennis Channel | Plus 2
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TennisChannelPlus_244x244.png?raw=true" group-title="Sports & Recreation",The Tennis Channel | Plus 3
+https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TennisChannelPlus_244x244.png?raw=true" group-title="Sports & Recreation",The Tennis Channel | Plus 4
+https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Sports & Recreation",Olympic Ch. (Geo-CA) | 1080p
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Sports & Recreation",Olympic Ch. (Geo-CA) | 720p
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_2.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Sports & Recreation",Olympic Ch. (Geo-CA) | 432p
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_3.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Sports & Recreation",Olympic Ch. (Geo-CA) | 288p
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_4.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Sports & Recreation",Olympic Ch. (Geo-CA) | 192p
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_5.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true" group-title="Sports & Recreation",beIN Sports Xtra | HD
+https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjg4NTMwNDBf/FuboSportsNetwork_844x844.png" group-title="Sports & Recreation",Fubo Sports Network | Webstream
+https://playout.fubo.tv/fsn/master.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjg4NTMwNDBf/FuboSportsNetwork_844x844.png" group-title="Sports & Recreation",Fubo Sports Network | Source 2
+https://playout.fubo.tv/plex/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FTFNext_576x576.png?raw=true" group-title="Sports & Recreation",FTF Next | FTF (Geo-USA)
+https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE_B.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FTFNext_576x576.png?raw=true" group-title="Sports & Recreation",FTF Next | LSN (Geo-USA)
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WhistleTV_350x350.png?raw=true" group-title="Sports & Recreation",Whistle TV | HD
+https://whistle-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" group-title="Sports & Recreation",Outside TV | HD
-https://outsidetvplus-distro.amagi.tv/playlist.m3u8
+https://outsidetvplus-stirr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjY2NzM2NzBf/Generic_WatchLive_500x500.png" group-title="Sports & Recreation",Snowy Mountains Television
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BeIN-Sports-Xtra_235x235.png?raw=true" group-title="Sports & Recreation",beIN Sports Xtra | HD
-https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RedBullTV_512x512.png" group-title="Sports & Recreation",Red Bull TV | HD
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SportsGrid_512x512.png?raw=true" group-title="Sports & Recreation",SportsGrid Network
-https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
+https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VSiN_400x400.png?raw=true" group-title="Sports & Recreation",VSiN | Webstream
 https://stream.rcncdn.com/live/vsinproxy.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RingOfHonor_400x400.png?raw=true" group-title="Sports & Recreation",Ring of Honor Wrestling | HD
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FTFNext_576x576.png?raw=true" group-title="Sports & Recreation",FTF Next | FTF (Geo-USA)
-https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE_B.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FTFNext_576x576.png?raw=true" group-title="Sports & Recreation",FTF Next | LSN (Geo-USA)
-https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WPT_600x600.png?raw=true" group-title="Sports & Recreation",WPT | World Poker Tour
+https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PNIA_900x900.png?raw=true" group-title="Sports & Recreation",Poker Night In America
+https://pokernight-rushstreet-glewedtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yMjgzNzU2MTNf/MAVTVSelect_1060x1060.png" group-title="Sports & Recreation",MAV TV Select
+https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwOTU2NjBf/SupercarBlondie_300x300.png" group-title="Sports & Recreation",Supercar Blondie
 https://bozztv.com/36bay2/gin/giniko_supercarblondie_1000kb_36bay2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheT_246x246.png" group-title="The Tennis Channel Free",The Tennis Channel | The T
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TennisChannelPlus_244x244.png?raw=true" group-title="The Tennis Channel Free",The Tennis Channel | Plus 1
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TennisChannelPlus_244x244.png?raw=true" group-title="The Tennis Channel Free",The Tennis Channel | Plus 2
-https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TennisChannelPlus_244x244.png?raw=true" group-title="The Tennis Channel Free",The Tennis Channel | Plus 3
-https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TennisChannelPlus_244x244.png?raw=true" group-title="The Tennis Channel Free",The Tennis Channel | Plus 4
-https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel 1 | 1080p
-https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel 1 | 720p
-https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel 1 | 480p
-https://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel 2 | 1080p
-https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel 2 | 720p
-https://ott-live.olympicchannel.com/out/u/OC2_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel 2 | 480p
-https://ott-live.olympicchannel.com/out/u/OC2_3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel 3 | 1080p
-https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel 3 | 720p
-https://ott-live.olympicchannel.com/out/u/OC3_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel 3 | 480p
-https://ott-live.olympicchannel.com/out/u/OC3_3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel 4 | 1080p
-https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel 4 | 720p
-https://ott-live.olympicchannel.com/out/u/OC4_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel 4 | 480p
-https://ott-live.olympicchannel.com/out/u/OC4_3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel 5 | 1080p
-https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel 5 | 720p
-https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel 5 | 480p
-https://ott-live.olympicchannel.com/out/u/OC5_3.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Olympic Channel",Olympic Ch. (Geo-CA) | 1080p
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Olympic Channel",Olympic Ch. (Geo-CA) | 720p
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_2.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Olympic Channel",Olympic Ch. (Geo-CA) | 432p
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_3.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Olympic Channel",Olympic Ch. (Geo-CA) | 288p
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_4.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Olympic Channel",Olympic Ch. (Geo-CA) | 192p
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_5.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Harley Davidson TV",Harley Davidson TV
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Sports & Recreation",Harley Davidson TV
 https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Harley Davidson TV",Harley Davidson Racing TV
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Sports & Recreation",Harley Davidson Racing TV
 https://hdtv.prod2.ioio.tv/broker/play/797c5c1c-160c-4c17-a149-e31a0467ab62.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Harley Davidson TV",Harley Davidson Factory TV
-https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Harley Davidson TV",Harley Davidson Garage TV
-https://hdtv.prod2.ioio.tv/broker/play/b8789d55-d110-4452-a578-3a206afa3972.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Gameshows & Competitions",Buzzr | Webstream
 https://buzzrota-web.amagi.tv/playlist.m3u8
@@ -1372,6 +1314,27 @@ https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
 https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" group-title="AMC Networks",AMC | Absolute Reality by We TV
 https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Newsy
+https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Black History
+https://lnblackhistory-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_601b44c973e7842a025f72e4_lnblackhistory-live/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | grvty
+https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | WPT
+https://world-poker-tour.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f734a4a0a6064513436ac12_world-poker-tour/175.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Gusto TV
+https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | People TV
+https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | VENN
+https://d80z5qf1qyhbf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | ConTV
+https://d2rir1vttzppfq.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Fireside
+https://fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fdd393a31300f16077a1692_fireside/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Zen
+https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fd8fd0625dd2a6b74008872_ln-zen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV",** Entertainment **
 https://od.lk/s/MF8yMTU3OTc3MjJf/DistroTV_A-World-of-Free-TV_Promo.mp4?Entertainment
