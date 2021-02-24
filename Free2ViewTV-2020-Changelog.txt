@@ -41,6 +41,16 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 02/20/2021 - MAJOR NEW CATEGORY AND NEW CHANNELS: The complete Plex USA Live TV with EPG just added!!
+# Update: 02/20/2021 - INFO: For Plex Live TV, add this XML source to your media player:  https://rb.gy/uoqt9v
+# Update: 02/20/2021 - INFO (1/3):    Alternatively, you can use Plex Live TV playlists and sources separately, see URL's below:
+# Update: 02/20/2021 - INFO (2/3):    Plex Australia:  (M3U) https://rb.gy/ugheeo  (XML) https://rb.gy/foleoo
+# Update: 02/20/2021 - INFO (3/3):    Plex US:         (M3U) https://rb.gy/rhktaz  (XML) https://rb.gy/uoqt9v
+# Update: 02/20/2021 - ** PLEASE NOTE: The EPG is still being tested and accuracy may vary. This is still a work in progress. ** 
+# Update: 02/19/2021 - CATEGORY MAINTENANCE: "ABC News Digital" streams updated.   -   https://abcnews.go.com/Live
+# Update: 02/18/2021 - NEW CHANNEL ADDED: The new movie channel PopcornFlix | HD added in "Movies Plus" category.
+# Update: 02/17/2021 - NEW CHANNEL ADDED: Docubay TV added in "Entertainment" group.   -   https://www.docubay.com
+# Update: 02/16/2021 - PLAYLIST MAINTENANCE: Updated Info Screens for Free2View TV; updated "About Us + Extras" info and media.
 # Update: **** COMING SOON: Still have plans add new group "TV SHOPPING"; new Radio streams; and fill out Local NOW channel group.
 # Update: **** COMING SOON: Looking at adding channels from Brazilian streaming service https://yowi.tv -- many in English!
 # Update: 02/11/2021 - NEW CHANNEL: Journy linear channel added to "Entertainment" - https://www.ovationtv.com/watch/journy/
