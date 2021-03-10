@@ -41,6 +41,16 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 03/07/2021 - NEW CHANNEL ADDED: An 18+ Adult channel translated as "SILK" from Russia: ШЁПК ("International TV").
+# Update: 03/06/2021 - NEW CHANNELS ADDED: Updated "EPG | Plex Live TV" with new channel and EPG listings.
+# Update: 03/06/2021 - PLAYLIST MAINTENANCE: Moved separate sources for AMC Networks to "EPG | Free2View TV" group; updated some EPG.
+# Update: 03/05/2021 - NEW CATEGORY + CHANNELS: Added new group/streams: "SportsTribal.tv" - https://watch.sportstribal.tv/live/tv
+# Update: 03/04/2021 - NEW VOD ADDED: Vintage WB Cartoons (Vol.1) added to "Free2View TV | VOD", from my personal video archive.
+# Update: 03/03/2021 - CHANNEL MAINTENANCE: Updated live stream for Classic Arts Showcase in "Entertainment" category.
+# Update: 03/03/2021 - CATEGORY MAINTENANCE: Re-organized and updated "Entertainment" category; added Stingray video channels.
+# Update: 02/26/2021 - MAJOR UPDATE: "WatchYour.TV | TVS" group updated; new EPG source:  https://rb.gy/kyh87b 
+# Update: 02/26/2021 - INFO: Updated additional screens in "Info | Free2View TV", suggested recommended order of EPG sources offered.
+# Update: 02/26/2021 - CHANNELS REMOVED: All Sky channels have been removed at request of owners to protect copyright ownership.
 # Update: 02/20/2021 - MAJOR NEW CATEGORY AND NEW CHANNELS: The complete Plex USA Live TV with EPG just added!!
 # Update: 02/20/2021 - INFO: For Plex Live TV, add this XML source to your media player:  https://rb.gy/uoqt9v
 # Update: 02/20/2021 - INFO (1/3):    Alternatively, you can use Plex Live TV playlists and sources separately, see URL's below:
