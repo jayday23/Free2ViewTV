@@ -41,6 +41,11 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 03/24/2021 - MAINTENANCE: "Francophone TV": updated active channels with changed streams, removed ones no longer available.
+# Update: 03/23/2021 - MAINTENANCE + NEW CHANNELS: Renamed "Nature Cams" to "WebCams" and added new City cams.
+# Update: 03/21/2021 - MAINTENANCE: Redbox Live TV: Replacing old streams with NEW (separating categories as it gets updated).
+# Update: 03/17/2021 - MAINTENANCE: The Roku Channel: Replacing old streams with NEW (separating categories as it gets updated).
+# Update: 03/16/2021 - MAINTENANCE + NEW CHANNELS: Updating several dead streams in the "News & Weather"; added USA Today live.
 # Update: 03/07/2021 - NEW CHANNEL ADDED: An 18+ Adult channel translated as "SILK" from Russia: ШЁПК ("International TV").
 # Update: 03/06/2021 - NEW CHANNELS ADDED: Updated "EPG | Plex Live TV" with new channel and EPG listings.
 # Update: 03/06/2021 - PLAYLIST MAINTENANCE: Moved separate sources for AMC Networks to "EPG | Free2View TV" group; updated some EPG.
