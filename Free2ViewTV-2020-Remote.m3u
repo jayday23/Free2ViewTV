@@ -107,6 +107,12 @@
 # Update: 03/21/2021 - MAINTENANCE: Redbox Live TV: Replacing old streams with NEW (separating categories as it gets updated).
 # Update: 03/23/2021 - MAINTENANCE + NEW CHANNELS: Renamed "Nature Cams" to "WebCams" and added new City cams.
 # Update: 03/24/2021 - MAINTENANCE: "Francophone TV": updated active channels with changed streams, removed ones no longer available.
+# Update: 04/06/2021 - NEW CATEGORY + CHANNELS: "** NEW CHANNELS **" category added for easier visibility of new channels for those...
+#                      ...who do not read the changelog. Eventually, these channels will be moved to their proper categories.
+# Update: 04/06/2021 - NEW CHANNELS ADDED: Three channels added from the newly launched: https://watch.itsrealgoodtv.com/live-tv
+# Update: 04/06/2021 - NEW CHANNELS ADDED: Cinevault Westerns; a preview channel of Cinevault 80's coming soon to streaming platforms.
+#                      https://cinevaulttv.com - https://press.gsntv.com/resources/press-releases (February 24, 2021)
+# Update: 04/07/2021 - NEW CHANNEL ADDED: Rakuten TV UK added LoneStar to their Smart TV apps. Added as 'Channel 2' to the playlist.
 #
 # ************************************************************************************************************************************* 
 
@@ -132,6 +138,25 @@ https://od.lk/s/MF8yMjQwMDg2MjBf/EPGUpdate2021_v1.mp4
 https://od.lk/s/MF8yMzAyNTc1MjNf/EPG_WatchYourTV_v1.mp4
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5MzA4OTBf/F2V-TV_Logo.png" group-title="Info | Free2View TV",** Info | Buy Me A Coffee?
 https://od.lk/s/MF8yMjk4MTkzOTJf/F2VTV_BuyMeACoffee_v4.mp4
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzI3ODM1NjFf/NewChannels_v2_560x560.png" group-title="** NEW CHANNELS **",** NEW CHANNELS **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?new1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzI1NDE0MTFf/RetroTV_v2_281x281.png" group-title="** NEW CHANNELS **",Retro TV 
+https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8?new
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzI1NDE5MjRf/Revn_375x375.png" group-title="** NEW CHANNELS **",Rev'n
+https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8?new
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzI1NDE5MjJf/Heartland_720x720.png" group-title="** NEW CHANNELS **",The Heartland Network
+https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8?new
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzI4NjE5OTZf/Cinevault-Westerns_v2_700x700.png" group-title="** NEW CHANNELS **",Cinevault Westerns | HD
+https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8?new
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzI4NjIyODdf/Cinevault-80s_700x700.png" group-title="** NEW CHANNELS **",Cinevault 80s (Coming Soon)
+https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8?new
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzI3ODM1NjFf/NewChannels_v2_560x560.png" group-title="** NEW CHANNELS **",** UPDATED STREAMS **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?new2
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQwMDkwMjRf/Dust_670x670.png" group-title="** NEW CHANNELS **",Dust | HD
+https://dust-samsung.vizio.wurl.com/manifest/playlist.m3u8?new
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMxMzM1NzJf/LoneStar_250x250.png" group-title="** NEW CHANNELS **",LoneStar | Channel 2
+https://lonestar-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Entertainment",Buzzr | HD
 https://buzzrota-web.amagi.tv/playlist.m3u8
