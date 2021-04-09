@@ -41,6 +41,12 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+# Update: 04/07/2021 - NEW CHANNEL ADDED: Rakuten TV UK added LoneStar to their Smart TV apps. Added as 'Channel 2' to the playlist.
+# Update: 04/06/2021 - NEW CATEGORY + CHANNELS: "** NEW CHANNELS **" category added for easier visibility of new channels for those...
+#                      ...who do not read the changelog. Eventually, these channels will be moved to their proper categories.
+# Update: 04/06/2021 - NEW CHANNELS ADDED: Three channels added from the newly launched: https://watch.itsrealgoodtv.com/live-tv
+# Update: 04/06/2021 - NEW CHANNELS ADDED: Cinevault Westerns; a preview channel of Cinevault 80's coming soon to streaming platforms.
+#                      https://cinevaulttv.com - https://press.gsntv.com/resources/press-releases (February 24, 2021)
 # Update: 03/24/2021 - MAINTENANCE: "Francophone TV": updated active channels with changed streams, removed ones no longer available.
 # Update: 03/23/2021 - MAINTENANCE + NEW CHANNELS: Renamed "Nature Cams" to "WebCams" and added new City cams.
 # Update: 03/21/2021 - MAINTENANCE: Redbox Live TV: Replacing old streams with NEW (separating categories as it gets updated).
