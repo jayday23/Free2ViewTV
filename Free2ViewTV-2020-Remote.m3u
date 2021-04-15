@@ -913,7 +913,9 @@ https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="Canadian TV",Tele-Quebec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="Canadian TV",noovo
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ICI-Television_292x292.png?raw=true" group-title="Canadian TV",ICI Television
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Canadian TV",Canal Savoir
@@ -2810,7 +2812,9 @@ https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="Francophone TV",Canada | Tele-Quebec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="Francophone TV",Canada | noovo
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanalSavoir_363x363.png?raw=true" group-title="Francophone TV",Canada | Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CPAC_360x360.png?raw=true" group-title="Francophone TV",Canada | CPAC
