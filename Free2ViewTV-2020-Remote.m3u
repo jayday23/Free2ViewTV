@@ -68,6 +68,7 @@
 # Update: 04/21/2021 - CATEGORY MAINTENANCE: Removed Ion Plus, updated WeatherNation stream: "EPG | USA FREE TV | 66101" category.
 # Update: 04/21/2021 - CATEGORY MAINTENANCE: Removed Ion Plus, no longer has valid EPG info: "EPG | USA FREE TV | OTA" category.
 # Update: 04/21/2021 - NEW CHANNELS: Completely updated "LocalNow" category with current line up as of April 2021.
+# Update: 04/22/2021 - NEW CHANNELS: Updated Ion Plus, added Ion Qubo; featured in ** NEW CHANNELS **, added to Entertainment.
 #
 # ************************************************************************************************************************************* 
 
@@ -114,6 +115,10 @@ https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8?new
 https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8?new
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzI3ODM1NjFf/NewChannels_v2_560x560.png" group-title="** NEW CHANNELS **",** UPDATED STREAMS **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?new2
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM0MjczODBf/IonPlus_420x420.png" group-title="** NEW CHANNELS **",Ion Plus | HD
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzQ0NDMyODNf/Ion-Qubo_540x540.png" group-title="** NEW CHANNELS **",Ion Qubo | HD
+https://ion-qubo-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQwMDkwMjRf/Dust_670x670.png" group-title="** NEW CHANNELS **",Dust | HD
 https://dust-samsung.vizio.wurl.com/manifest/playlist.m3u8?new
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMxMzM1NzJf/LoneStar_250x250.png" group-title="** NEW CHANNELS **",LoneStar | Channel 2
@@ -135,6 +140,10 @@ http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TBD.png" group-title="Entertainment",TBD Channel
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM0MjczODBf/IonPlus_420x420.png" group-title="Entertainment",Ion Plus | HD
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzQ0NDMyODNf/Ion-Qubo_540x540.png" group-title="Entertainment",Ion Qubo | HD
+https://ion-qubo-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzA5ODU0NjFf/ZLiving_290x290.png" group-title="Entertainment",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzA5ODU1NTRf/Folk-TV.png" group-title="Entertainment",Folk TV

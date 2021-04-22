@@ -40,6 +40,7 @@
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
 #
+# Update: 04/22/2021 - NEW CHANNELS: Updated Ion Plus, added Ion Qubo; featured in ** NEW CHANNELS **, added to Entertainment.
 # Update: 04/21/2021 - CHANNEL MAINTENANCE: America's Voice stream corrupted, changed to network webstream "EPG | USA FREE TV | 66101".
 # Update: 04/21/2021 - CATEGORY MAINTENANCE: Removed Ion Plus, updated WeatherNation stream: "EPG | USA FREE TV | 66101" category.
 # Update: 04/21/2021 - CATEGORY MAINTENANCE: Removed Ion Plus, no longer has valid EPG info: "EPG | USA FREE TV | OTA" category.
