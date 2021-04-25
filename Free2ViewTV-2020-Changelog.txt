@@ -13,8 +13,6 @@
 # Download the complete Changelog (News and Updates):
 # https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Changelog.txt
 #
-# Electronic Program Guides used for this playlist:
-# https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/EPG/F2VTV_MERGE2.xml
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 # IMPORTANT NOTICE: - PLEASE NOTE THAT CHANNEL LINE-UP CHANGES ARE OCCURING. THE FOLLOWING CHANNELS HAVE BEEN REMOVED FROM THE
@@ -41,6 +39,19 @@
 #                     The Free2View TV Project sincerely apologizes, but hopes that you will still enjoy the hundreds of other free 
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
+#
+# Update: 04/22/2021 - NEW CHANNELS: Updated Ion Plus, added Ion Qubo; featured in ** NEW CHANNELS **, added to Entertainment.
+# Update: 04/21/2021 - CHANNEL MAINTENANCE: America's Voice stream corrupted, changed to network webstream "EPG | USA FREE TV | 66101".
+# Update: 04/21/2021 - CATEGORY MAINTENANCE: Removed Ion Plus, updated WeatherNation stream: "EPG | USA FREE TV | 66101" category.
+# Update: 04/21/2021 - CATEGORY MAINTENANCE: Removed Ion Plus, no longer has valid EPG info: "EPG | USA FREE TV | OTA" category.
+# Update: 04/21/2021 - NEW CHANNELS: Completely updated "LocalNow" category with current line up as of April 2021.
+# Update: 04/20/2021 - PLAYLIST MAINTENANCE: Due to previous issues with servers, relocated EPG sources. Details in INFO category.
+# Update: 04/20/2021 - PLAYLIST MAINTENANCE: Due to previous issues with servers, relocated EPG sources. Info in NEW CHANNELS group.
+# Update: 04/20/2021 - PLAYLIST MAINTENANCE: EPG sources information updated in "CBC TV Canada (Geo)" category.
+# Update: 04/20/2021 - PLAYLIST MAINTENANCE: EPG sources information updated in "EPG | USA FREE TV | 66101" category.
+# Update: 04/20/2021 - PLAYLIST MAINTENANCE: EPG sources information updated in "EPG | USA FREE TV | OTA" category.
+# Update: 04/20/2021 - TESTING NEW CHANNELS: Two new Blue Ant Media streams being tested in the "** NEW CHANNELS **" category.
+# Update: 04/19/2021 - PLAYLIST MAINTENANCE: Tagged dummy channel with Playlist Update Date in "Info | Free2View TV". 
 # Update: 04/14/2021 - Updated stream for NOOVO.
 # Update: 04/07/2021 - NEW CHANNEL ADDED: Rakuten TV UK added LoneStar to their Smart TV apps. Added as 'Channel 2' to the playlist.
 # Update: 04/06/2021 - NEW CATEGORY + CHANNELS: "** NEW CHANNELS **" category added for easier visibility of new channels for those...
