@@ -52,6 +52,7 @@
 # Update: 04/20/2021 - PLAYLIST MAINTENANCE: EPG sources information updated in "EPG | USA FREE TV | OTA" category.
 # Update: 04/20/2021 - TESTING NEW CHANNELS: Two new Blue Ant Media streams being tested in the "** NEW CHANNELS **" category.
 # Update: 04/19/2021 - PLAYLIST MAINTENANCE: Tagged dummy channel with Playlist Update Date in "Info | Free2View TV". 
+# Update: 04/14/2021 - Updated stream for NOOVO.
 # Update: 04/07/2021 - NEW CHANNEL ADDED: Rakuten TV UK added LoneStar to their Smart TV apps. Added as 'Channel 2' to the playlist.
 # Update: 04/06/2021 - NEW CATEGORY + CHANNELS: "** NEW CHANNELS **" category added for easier visibility of new channels for those...
 #                      ...who do not read the changelog. Eventually, these channels will be moved to their proper categories.
