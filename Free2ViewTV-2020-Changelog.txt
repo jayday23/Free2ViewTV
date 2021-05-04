@@ -40,6 +40,17 @@
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
 #
+# Update: 05/01/2021 - NEW CHANNELS ADDED: CrimeTime, HauntTV, from Blue Ant Media.  https://blueantmedia.com/channels/
+# Update: 05/01/2021 - NEW CHANNEL ADDED: FilmRise Horror from Vizio Live TV, added to "FilmRise Digital Networks".
+# Update: 05/01/2021 - NEW CATEGORY ADDED: New "Paranormal + Horror + Sci-Fi" category added with duplicated channels.
+# Update: 04/29/2021 - CATEGORY MAINTENANCE: Completey updated "The Roku Channel" category; added all channels, updated streams.
+# Update: 04/28/2021 - NEW CHANNEL ADDED: TWD Universe Experience, now on Samsung TV Plus and IMDb TV: ** NEW CHANNELS **
+# Update: 04/27/2021 - CHANNEL MAINTENANCE: Updated 'noovo' linear stream in "Canadian TV" and "Francophone TV" categories.
+# Update: 04/27/2021 - CATEGORY MAINTENANCE: Updated "Movies Plus" category, fixing dead channels, adding several new channels.
+# Update: 04/25/2021 - NEW CATEGORY + CHANNELS: Added the entire FREE line-up for: "Rad.live Free" - https://rad.live/live-tv
+# Update: 04/25/2021 - NEW CHANNEL ADDED: Added Dark Corners TV.   https://spacemobstudio.com/channels/
+# Update: 04/24/2021 - !! "Info | Free2View TV",** Info | Playlist updated as of 4/24/21 ** !!
+# Update: 04/24/2021 - !! CHECK OUT NEW CHANNELS AND LATEST CHANNEL UPDATES IN THE ** NEW CHANNELS ** CATEGORY !! 
 # Update: 04/22/2021 - NEW CHANNELS: Updated Ion Plus, added Ion Qubo; featured in ** NEW CHANNELS **, added to Entertainment.
 # Update: 04/21/2021 - CHANNEL MAINTENANCE: America's Voice stream corrupted, changed to network webstream "EPG | USA FREE TV | 66101".
 # Update: 04/21/2021 - CATEGORY MAINTENANCE: Removed Ion Plus, updated WeatherNation stream: "EPG | USA FREE TV | 66101" category.
@@ -52,7 +63,6 @@
 # Update: 04/20/2021 - PLAYLIST MAINTENANCE: EPG sources information updated in "EPG | USA FREE TV | OTA" category.
 # Update: 04/20/2021 - TESTING NEW CHANNELS: Two new Blue Ant Media streams being tested in the "** NEW CHANNELS **" category.
 # Update: 04/19/2021 - PLAYLIST MAINTENANCE: Tagged dummy channel with Playlist Update Date in "Info | Free2View TV". 
-# Update: 04/14/2021 - Updated stream for NOOVO.
 # Update: 04/07/2021 - NEW CHANNEL ADDED: Rakuten TV UK added LoneStar to their Smart TV apps. Added as 'Channel 2' to the playlist.
 # Update: 04/06/2021 - NEW CATEGORY + CHANNELS: "** NEW CHANNELS **" category added for easier visibility of new channels for those...
 #                      ...who do not read the changelog. Eventually, these channels will be moved to their proper categories.
