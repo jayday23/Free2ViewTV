@@ -40,6 +40,17 @@
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
 #
+# Update: 05/12/2021 - NEW CHANNEL ADDED: Rotten Tomatoes TV added to ** NEW CHANNELS **, will be moved to its proper category later.
+# Update: 05/12/2021 - CATEGORY MAINTENANCE: Started maintenance on the ENTERTAINMENT category, updating streams and more. Ongoing.
+# Update: 05/11/2021 - CATEGORY UPDATE + NEW CHANNELS: "FilmRise Digital Networks" group updated, 2 new channels added.
+# Update: 05/11/2021 - CATEGORY MAINTENANCE: Updated some streams and labels for channels in "Gameshows & Competitions".
+# Update: 05/11/2021 - CHANNEL DELETED: Qubo deleted. Quobo was discontinued by parent company Ion and never replaced.
+# Update: 05/07/2021 - NEW CHANNEL ADDED: Classic Reruns TV - live stream now available on Distro TV and other free TV platforms.
+# Update: 05/07/2021 - CATEGORY UPDATE: Classic Reruns TV and Blush Romance TV Network added to "Nostalgia Flicks" category.
+# Update: 05/05/2021 - CATEGORY MAINTENANCE: Streams in "Nostalgia Flicks" completely updated, added additional channels.
+# Update: 05/04/2021 - CATEGORY MAINTENANCE: Streams in "EPG | Free2View TV" completely updated, added additional channels.
+# Update: 05/04/2021 - !! "Info | Free2View TV",** Info | Playlist updated as of 5/04/21 ** !!
+# Update: 05/04/2021 - !! CHECK OUT NEW CHANNELS AND LATEST CHANNEL UPDATES IN THE ** NEW CHANNELS ** CATEGORY !! 
 # Update: 05/01/2021 - NEW CHANNELS ADDED: CrimeTime, HauntTV, from Blue Ant Media.  https://blueantmedia.com/channels/
 # Update: 05/01/2021 - NEW CHANNEL ADDED: FilmRise Horror from Vizio Live TV, added to "FilmRise Digital Networks".
 # Update: 05/01/2021 - NEW CATEGORY ADDED: New "Paranormal + Horror + Sci-Fi" category added with duplicated channels.
