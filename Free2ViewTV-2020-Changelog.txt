@@ -40,6 +40,16 @@
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
 #
+# Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 5/30/21 ** !! See chronology of changes below...
+# Update: !!!!!!!!!! - !! CHECK OUT NEW CHANNELS AND LATEST CHANNEL UPDATES IN THE ** NEW CHANNELS ** CATEGORY !! 
+# Update: 05/23/2021 - CATEGORY UPDATE + NEW CHANNELS: "WebCams" group: updated streams, added additional webcams.
+# Update: 05/20/2021 - ..."USA FREE OTA TV" streams now absorbed into  "EPG | USA FREE TV | OTA" (no EPG); updated some streams.
+# Update: 05/19/2021 - CATEGORY MAINTENANCE: Consolidated "EPG | USA FREE TV | 66101" into "EPG | USA FREE TV | OTA" category...
+# Update: 05/19/2021 - ...TV25 channels now absorbed into "EPG | USA FREE TV | OTA" category and eliminated duplicate channels.
+# Update: 05/18/2021 - CHANNEL MAINTENANCE: Updated "Electric Now" stream in "Movies Plus" and "EPG | Free2View TV" categories.
+# Update: 05/17/2021 - NEW CATEGORY + CHANNELS: created "Entertainment | Binge 24/7" with several relocated and new channels added.
+# Update: 05/16/2021 - PLAYLIST MAINTENANCE: Streams in "Cinedigm Digital Networks" category updated.
+# Update: 05/13/2021 - PLAYLIST MAINTENANCE: Cleaning up "Entertainment" group, moving relevant channels to "Entertainment (Geo-USA)".
 # Update: 05/12/2021 - NEW CHANNEL ADDED: Rotten Tomatoes TV added to ** NEW CHANNELS **, will be moved to its proper category later.
 # Update: 05/12/2021 - CATEGORY MAINTENANCE: Started maintenance on the ENTERTAINMENT category, updating streams and more. Ongoing.
 # Update: 05/11/2021 - CATEGORY UPDATE + NEW CHANNELS: "FilmRise Digital Networks" group updated, 2 new channels added.
