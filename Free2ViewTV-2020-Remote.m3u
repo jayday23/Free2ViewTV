@@ -142,13 +142,17 @@ https://od.lk/s/MF8yMjk4MTkzOTJf/F2VTV_BuyMeACoffee_v4.mp4
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5MzA4OTBf/F2V-TV_Logo.png" group-title="** NEW CHANNELS **",Info | Category updated 6/09/21
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?new1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzI3ODM1NjFf/NewChannels_v2_560x560.png" group-title="** NEW CHANNELS **",** UPDATED STREAMS **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?new2
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?new4
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzI3ODM1NjFf/NewChannels_v2_560x560.png" group-title="** NEW CHANNELS **",Updated Streams: Canadian TV (6/09/21)
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?goto4
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="** NEW CHANNELS **",Electric Now | HD
 https://ov-elec-en.ottera.tv/elec/en/en.m3u8?l1br3EL0517
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzI3ODM1NjFf/NewChannels_v2_560x560.png" group-title="** NEW CHANNELS **",** NEW CHANNELS **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?new2
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwNjQ5OTBf/RottenTomatoesTV_900x900.png" group-title="** NEW CHANNELS **",Rotten Tomatoes TV (Geo-USA)
 https://rottentomatoes-roku.amagi.tv/playlist.m3u8?l1br3RO0512
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzI3ODM1NjFf/NewChannels_v2_560x560.png" group-title="** NEW CHANNELS **",Go To: Stirr TV (6/09/21)
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?goto3
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzI3ODM1NjFf/NewChannels_v2_560x560.png" group-title="** NEW CHANNELS **",Go To: Binge TV | AMC Networks (6/04/21)
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?goto1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzI3ODM1NjFf/NewChannels_v2_560x560.png" group-title="** NEW CHANNELS **",Go To: Nostalgia Flicks (5/11/21)
