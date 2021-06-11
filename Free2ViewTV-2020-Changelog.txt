@@ -40,6 +40,16 @@
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
 #
+# Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 6/09/2021 ** !! See chronology of changes below...
+# Update: !!!!!!!!!! - !! CHECK OUT NEW CHANNELS AND LATEST CHANNEL UPDATES IN THE ** NEW CHANNELS ** CATEGORY !! 
+# Update: 06/08/2021 - NEW!! Stirr TV! Special thanks to Matt Huisman for EPG Source: https://i.mjh.nz/Stirr/epg.xml
+# Update: 06/07/2021 - PLAYLIST MAINTENANCE: Fixed broken link for a video in "About Us + Extras" (Buy Me A Coffee?). 
+# Update: 06/05/2021 - CATEGORY MAINTENANCE: Updated NTV, Assemblee Nationale du QC; added CBC News Highlights in "Canadian TV".
+# Update: 06/04/2021 - NEW CATEGORY: "Binge TV | AMC Networks" added with full set of channels streaming on various free TV platforms.
+# Update: 06/04/2021 - CATEGORY MAINTENANCE: Relocated AMC Networks from "EPG | Free2View TV" to "Binge TV | AMC Networks".
+# Update: 06/03/2021 - CATEGORY MAINTENANCE: Removed TimeLine TV | HD from "EPG | Free2View TV" (no EPG info available currently).
+# Update: 06/01/2021 - MAINTENANCE: Renamed "Entertainment | Binge 24/7" as "Binge TV | Series 24/7"; moved further down in playlist.
+# Update: 06/01/2021 - CATEGORY MAINTENANCE: Renamed "[adult swim]" group as "Binge TV | [adult swim]".
 # Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 5/30/21 ** !! See chronology of changes below...
 # Update: !!!!!!!!!! - !! CHECK OUT NEW CHANNELS AND LATEST CHANNEL UPDATES IN THE ** NEW CHANNELS ** CATEGORY !! 
 # Update: 05/23/2021 - CATEGORY UPDATE + NEW CHANNELS: "WebCams" group: updated streams, added additional webcams.
