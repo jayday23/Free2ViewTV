@@ -40,6 +40,11 @@
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
 #
+# Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 6/29/2021 ** !! See chronology of changes below...
+# Update: 06/29/2021 - CATEGORY UPDATED: "EPG | Plex Live TV" updated with the latest new additions, courtesy of @Smacca / Discord.
+# Update: 06/29/2021 - CATEGORY UPDATED: "Sports & Recreation", fixed dead streams, added additional Harley Davidson TV streams.
+# Update: 06/29/2021 - NEW CHANNELS ADDED: Wimbledon Channel, broadcast TV and Radio streams added to "Sports & Recreation".
+# Update: 06/29/2021 - NEW CHANNEL ADDED: Olympic Channel's International webstream has been added to "Sports & Recreation".
 # Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 6/09/2021 ** !! See chronology of changes below...
 # Update: !!!!!!!!!! - !! CHECK OUT NEW CHANNELS AND LATEST CHANNEL UPDATES IN THE ** NEW CHANNELS ** CATEGORY !! 
 # Update: 06/08/2021 - NEW!! Stirr TV! Special thanks to Matt Huisman for EPG Source: https://i.mjh.nz/Stirr/epg.xml
