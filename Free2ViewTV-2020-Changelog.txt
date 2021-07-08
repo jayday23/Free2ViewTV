@@ -40,6 +40,11 @@
 #                     channels available in the Free2View TV playlist. Comments? Contact us at Free2ViewTVCanada@gmail.com
 #
 #
+# Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 7/07/2021 ** !! See chronology of changes below...
+# Update: !!!!!!!!!! - !! "Info | Free2View TV" updated info on all EPG sources, URL's shown for direct info to links.
+# Update: 07/04/2021 - CATEGORY MAINTENANCE: Cleaned up "Binge TV | AMC Networks", matched up some EPG sources to correct feeds.
+# Update: 07/04/2021 - NEW CHANNELS + EPG: Added channels from Pluto TV to "Binge TV | AMC Networks", including new EPG source.
+# Update: 07/04/2021 - CATEGORY MAINTENANCE: Updated stream URL's and added additional info to the "EPG | Plex Live TV" category.
 # Update: !!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 7/01/2021 ** !! See chronology of changes below...
 # Update: 07/02/2021 - CATEGORY UPDATED: Updated channel names in "Samsung TV Plus" to avoid conflicts with EPG data.
 # Update: 07/01/2021 - NEW CATEGORY + CHANNELS: All New!! Samsung TV Plus (USA/CANADA), adapted from work courtesty of Matt Huisman.
